@@ -1,0 +1,132 @@
+---
+title: "Beszámoló"
+author: "Petróczki Anna"
+date: "2024-05-09"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = F)
+
+library(tidyverse) # adatokhoz #
+library(knitr) # táblázathoz #
+library(kableExtra) # táblázatok formázásához #
+
+# adattáblák betöltése #
+df_long_all = read_tsv('df_long_all.tsv')
+df_wide_all = read_tsv('df_wide_all.tsv')
+```
+
+
+## Alapkérdés
+
+
+Az alapkérdésem az volt, hogy van-e összefüggés a csapadék kiszámíthatósága és az
+unokatestvér-házasság preferálása között. Ez abból a kíváncsiságomból fakadt, hogy vajon
+az időjárás okozta bizonytalan gazdasági helyzetben az emberek preferálják-e inkább a
+javak családi körben való megtartását, lévén, hogy ahhoz egyébként is igen nehezen
+jutottak hozzá. A történelem során jellemző volt az e fajta gondolkozás, azonban a
+modernizációval, urbanizációval és az oktatás elérhetőségével ez a szokás világszerte eltűnőfélben van.
+
+
+A kérdésem megválaszolásához az Etnográfiai Atlaszt (Murdoc et al., 1999) és a Klíma
+adatbázist (Lima-Ribeiro et al., 2015) használtam. Az adatbázisokat a megfelelő
+szempontok alapján szűrtem, majd a összeolvasztottam, végül új, könnyebben használható és elemezhető táblázatokat készítettem.
+
+
+## Vizsgált változók
+
+
+Az unokatestvér-házasságot az Etnográfia Atlasz 'EA025' kódszáma alapján vizsgáltam.
+
+
+```{r v1, fig.width=6,fig.height=4}
+# változó szűrése + táblázat #
+df_long_all %>% 
+  filter(var_id_ea == 'EA025') %>%
+  distinct(var_id_ea, category_ea, title_ea, definition_ea) %>% 
+  kable() %>%
+  kable_styling(full_width = FALSE) %>%
+  column_spec(1:4, width = "110px") # összecsúszott a szöveg, így formáznom kellett #
+```
+
+
+Ennek a változónak 15 előfordulási formáját jegyezték fel, mely közül az értékek a
+különböző rokoni ágakkal szembeni preferenciát jelölik (pl. kétoldali szimmetrikus
+preferenciával, négyoldali apai ági preferenciával, háromoldali, majd kétoldali
+másodunokatestvér-preferenciával stb). Továbbá a 15-ös érték a preferencia hiányát jelöli, azaz
+ebben az esetben nem preferáltak az unokatestvér-házasságok. Az alábbi ábrán jól látható,
+hogy a vizsgált törzsek között ez az érték volt a leggyakoribb, azaz nem jellemző az onokatestvér-házasságok preferálása.
+
+
+```{r v2, fig.width=6,fig.height=4}
+# hisztogram készítése az EA025-ös kódról #
+df_long_all %>% 
+  ggplot(aes(code_ea)) +
+  geom_histogram(bins = 20) +
+  theme_classic() +
+  xlab('Unokatestvér-házasság preferálása')
+```
+
+
+Az időjárás viszontagságait a csapadék kiszámíthatóságának faktorával vizsgáltam, melynek számításához az adatbázis készítői Colwell indexeit vették alapul (Colwell, 1974).
+
+
+```{r v3, fig.width=6,fig.height=4}
+# változó szűrése + táblázat #
+df_long_all %>% 
+  filter(var_id_eco == 'PrecipitationPredictability') %>%
+  distinct(var_id_eco, category_eco, title_eco, definition_eco) %>% 
+  kable() %>%
+  kable_styling(full_width = FALSE) %>%
+  column_spec(1:4, width = "110px") # összecsúszott a szöveg, így formáznom kellett #
+```
+
+
+A csapadék kiszámíthatóságának indexe szerint a 0 a teljes kiszámíthatatlanság, míg az 1 tökéletes kiszámíthatóság. Az alábbi ábrán látható, hogy a vizsgált törzsek lakóhelyén inkább jól kiszámítható a csapadékmennyiség, mintsem kiszámíthatatlan.
+
+
+```{r v4, fig.width=6,fig.height=4}
+# hisztogram készítése a 'PrecipitationPredictability' változóval #
+df_long_all %>% 
+  ggplot(aes(code_eco)) +
+  geom_histogram(bins = 20) +
+  theme_classic() +
+  xlab('Csapadék kiszámíthatósága')
+```
+
+
+## Változók közötti összefüggések
+
+
+A kérdésem tehát az, hogy a két változó, azaz az unokatestvér-házasság és a csapadék kiszámíthatósága van-e egymásra hatással, pontosabban az utóbbi az előbbire. Ehhez elvégeztem egy lineáris regressziós elemzést is, mely alapján a csapadék kiszámíthatósága nincs szignifikáns hatással az unokatestvár-házasságra (R2 = ,000, F(1, 1040) = 0,015, p = ,901). Sőt, a csapadék kiszámíthatóságának faktora semmilyen hatással (-0,004 szórás) nem volt az unokatestvér-házasságra.
+
+Mindez az alábbi ábrán is látható, ahol az kapott egyenesnek se dőlésszöge nincs, se a pontok nem közelítenek hozzá.
+
+
+```{r v5, fig.width=6,fig.height=4}
+df_wide_all %>% 
+  ggplot(aes(x = code_ea, y = code_eco)) +
+  geom_point() +
+  theme_classic() +
+  geom_smooth(method = 'lm', formula = 'y ~ x') +
+  xlab('Unokatestvér-házasság preferálása') +
+  ylab('Csapadék kiszámíthatósága')
+```
+
+
+## Következtetés
+
+
+A kezdeti kérdésemre a fenti adatelemzés sajnos nem hozott eredményt. Úgy tűnik, hogy a vizsgált törzsek között a csapadék kiszámíthatósága, azaz az ezzel járó esetleges gazdasági kiszámíthatatlanság nincs hatással az unokatestvér-házasságok preferálásával. Ez lehet részben annak az oka is, hogy ezekben a törzsekben kulturálisan és/vagy vallásilag egyébként sem preferált az unokatestvér-házasság, vagy ha preferált is, ez teljesen független a gazdasági helyzettől, tehát mondjuk hagyomány jellegű szerepe van inkább. Érdekes lehetne más változókkal is vizsgálni, hogy kiderüljön az időjárás viszontagságai befolyásolják-e egyáltalán ezt a szokást, vagy kialakulása inkább más gyökerekből eredeztethető. 
+
+
+## Hivatkozások
+
+
+Colwell R. K. (1974) Predictability, constancy, and contingency of periodic phenomena. Ecology. 1:1148-53.
+
+Lima-Ribeiro MS, Varela S, González-Hernández J, Oliveira G, Diniz-Filho JAF, Peterson AT, & Terribile LC. (2023). D-PLACE dataset derived from Lima-Ribeiro et al. 2015 'ecoClimate' (v3.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.10179301
+
+Murdock, G. P., R. Textor, H. Barry, I., D. R. White, J. P. Gray, & W. T. Divale. (2023). D-PLACE dataset derived from Murdock et al. 1999 'Ethnographic Atlas' (v3.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.10177061
+

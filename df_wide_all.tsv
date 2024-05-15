@@ -1,0 +1,1043 @@
+soc_id	pref_name_for_society	region	code_ea	code_eco	title_ea	title_eco
+Aa1	!Kung	Southern Africa	15	0.478079126	Cousin marriages preferred	Precipitation predictability
+Aa2	Dorobo	East Tropical Africa	15	0.586995285	Cousin marriages preferred	Precipitation predictability
+Aa3	Nama	Southern Africa	15	0.463783746	Cousin marriages preferred	Precipitation predictability
+Aa4	Bergdama	Southern Africa	15	0.401874426	Cousin marriages preferred	Precipitation predictability
+Aa5	Mbuti	West-Central Tropical Africa	15	0.787907614	Cousin marriages preferred	Precipitation predictability
+Aa6	Sandawe	East Tropical Africa	5	0.716083454	Cousin marriages preferred	Precipitation predictability
+Aa7	Naron	Southern Africa	15	0.476634963	Cousin marriages preferred	Precipitation predictability
+Aa8	/Xam	Southern Africa	15	0.571137119	Cousin marriages preferred	Precipitation predictability
+Ab1	Herero	Southern Africa	3	0.424335365	Cousin marriages preferred	Precipitation predictability
+Ab10	Pondo Xhosa	Southern Africa	15	0.667812243	Cousin marriages preferred	Precipitation predictability
+Ab11	Xhosa Ngqika	Southern Africa	15	0.691797673	Cousin marriages preferred	Precipitation predictability
+Ab12	Zulu	Southern Africa	15	0.674294506	Cousin marriages preferred	Precipitation predictability
+Ab13	Tswana	Southern Africa	8	0.56300904	Cousin marriages preferred	Precipitation predictability
+Ab14	Lovedu	Southern Africa	2	0.610223687	Cousin marriages preferred	Precipitation predictability
+Ab15	Pedi	Southern Africa	5	0.630116989	Cousin marriages preferred	Precipitation predictability
+Ab16	Lenge	South Tropical Africa	15	0.581021446	Cousin marriages preferred	Precipitation predictability
+Ab17	Ndau	South Tropical Africa	15	0.593148765	Cousin marriages preferred	Precipitation predictability
+Ab18	Shona	South Tropical Africa	15	0.603421812	Cousin marriages preferred	Precipitation predictability
+Ab19	Ambo	South Tropical Africa	15	0.467616848	Cousin marriages preferred	Precipitation predictability
+Ab2	Swazi	Southern Africa	15	0.65205602	Cousin marriages preferred	Precipitation predictability
+Ab21b	Bomvana	Southern Africa	15	0.70170868	Cousin marriages preferred	Precipitation predictability
+Ab22	Chopi	South Tropical Africa	15	0.584157709	Cousin marriages preferred	Precipitation predictability
+Ab3	Lozi	South Tropical Africa	15	0.535296134	Cousin marriages preferred	Precipitation predictability
+Ab4	Tsonga	South Tropical Africa	15	0.596140952	Cousin marriages preferred	Precipitation predictability
+Ab5	Mbundu	South Tropical Africa	2	0.568299065	Cousin marriages preferred	Precipitation predictability
+Ab6	Venda	Southern Africa	2	0.581898872	Cousin marriages preferred	Precipitation predictability
+Ab7	Nyaneka	South Tropical Africa	15	0.498186584	Cousin marriages preferred	Precipitation predictability
+Ab8	Sotho	Southern Africa	8	0.681581301	Cousin marriages preferred	Precipitation predictability
+Ab9	Ndebele	South Tropical Africa	15	0.535129123	Cousin marriages preferred	Precipitation predictability
+Ac1	Ila	South Tropical Africa	6	0.570235478	Cousin marriages preferred	Precipitation predictability
+Ac10	Chewa	South Tropical Africa	1	0.672457139	Cousin marriages preferred	Precipitation predictability
+Ac11	Luvale	South Tropical Africa	1	0.604561566	Cousin marriages preferred	Precipitation predictability
+Ac12	Chokwe	South Tropical Africa	2	0.60653981	Cousin marriages preferred	Precipitation predictability
+Ac13	Tonga	South Tropical Africa	2	0.70873827	Cousin marriages preferred	Precipitation predictability
+Ac14	Bakongo	South Tropical Africa	15	0.681462412	Cousin marriages preferred	Precipitation predictability
+Ac15	Mbala	West-Central Tropical Africa	12	0.721182395	Cousin marriages preferred	Precipitation predictability
+Ac17	Suku	West-Central Tropical Africa	3	0.677494695	Cousin marriages preferred	Precipitation predictability
+Ac19	Teke	West-Central Tropical Africa	15	0.76458195	Cousin marriages preferred	Precipitation predictability
+Ac2	Pende	West-Central Tropical Africa	6	0.672892711	Cousin marriages preferred	Precipitation predictability
+Ac21	Bunda	West-Central Tropical Africa	1	0.713038732	Cousin marriages preferred	Precipitation predictability
+Ac22	Dzing	West-Central Tropical Africa	15	0.742155013	Cousin marriages preferred	Precipitation predictability
+Ac23	Lele	West-Central Tropical Africa	15	0.700393182	Cousin marriages preferred	Precipitation predictability
+Ac24	Sakata	West-Central Tropical Africa	15	0.769470269	Cousin marriages preferred	Precipitation predictability
+Ac25	Songo	West-Central Tropical Africa	12	0.721182395	Cousin marriages preferred	Precipitation predictability
+Ac26	Yanzi	West-Central Tropical Africa	15	0.743559887	Cousin marriages preferred	Precipitation predictability
+Ac27	Luchazi	South Tropical Africa	15	0.591518266	Cousin marriages preferred	Precipitation predictability
+Ac28	Luimbe	South Tropical Africa	1	0.582344977	Cousin marriages preferred	Precipitation predictability
+Ac29	Luwa	West-Central Tropical Africa	15	0.656885246	Cousin marriages preferred	Precipitation predictability
+Ac3	Bemba	South Tropical Africa	1	0.711735186	Cousin marriages preferred	Precipitation predictability
+Ac30	Plateau Tonga	South Tropical Africa	15	0.522665303	Cousin marriages preferred	Precipitation predictability
+Ac32	Kaonde	South Tropical Africa	2	0.656014056	Cousin marriages preferred	Precipitation predictability
+Ac33	Lala	South Tropical Africa	15	0.622206318	Cousin marriages preferred	Precipitation predictability
+Ac34	Luapula	South Tropical Africa	1	0.710788435	Cousin marriages preferred	Precipitation predictability
+Ac35	Shila	West-Central Tropical Africa	15	0.692695492	Cousin marriages preferred	Precipitation predictability
+Ac36	Tumbuka	South Tropical Africa	1	0.70873827	Cousin marriages preferred	Precipitation predictability
+Ac37	Kunda	South Tropical Africa	1	0.632128315	Cousin marriages preferred	Precipitation predictability
+Ac38	Nyanja	South Tropical Africa	1	0.66772347	Cousin marriages preferred	Precipitation predictability
+Ac39	Nyasa	South Tropical Africa	12	0.714295738	Cousin marriages preferred	Precipitation predictability
+Ac4	Kuba	West-Central Tropical Africa	15	0.687692044	Cousin marriages preferred	Precipitation predictability
+Ac41	Makonde	South Tropical Africa	1	0.704242203	Cousin marriages preferred	Precipitation predictability
+Ac42	Makua	South Tropical Africa	1	0.690001777	Cousin marriages preferred	Precipitation predictability
+Ac5	Lamba	South Tropical Africa	2	0.679080641	Cousin marriages preferred	Precipitation predictability
+Ac6	Ndembu	West-Central Tropical Africa	1	0.692945175	Cousin marriages preferred	Precipitation predictability
+Ac7	Yao	South Tropical Africa	3	0.725853086	Cousin marriages preferred	Precipitation predictability
+Ac8	Yombe	West-Central Tropical Africa	15	0.732265031	Cousin marriages preferred	Precipitation predictability
+Ac9	Ngoni	South Tropical Africa	15	0.689224811	Cousin marriages preferred	Precipitation predictability
+Ad1	Bajuni	East Tropical Africa	7	0.609922767	Cousin marriages preferred	Precipitation predictability
+Ad10	Shambaa	East Tropical Africa	15	0.71141	Cousin marriages preferred	Precipitation predictability
+Ad11	Bena	East Tropical Africa	15	0.72637633	Cousin marriages preferred	Precipitation predictability
+Ad12	Gusii	East Tropical Africa	15	0.603816951	Cousin marriages preferred	Precipitation predictability
+Ad13	Kiga	West-Central Tropical Africa	5	0.703627719	Cousin marriages preferred	Precipitation predictability
+Ad14	Luguru	East Tropical Africa	2	0.695449442	Cousin marriages preferred	Precipitation predictability
+Ad15	Iwa	South Tropical Africa	1	0.721866675	Cousin marriages preferred	Precipitation predictability
+Ad16	Ngonde	South Tropical Africa	15	0.726040109	Cousin marriages preferred	Precipitation predictability
+Ad18	Bende	East Tropical Africa	15	0.666615506	Cousin marriages preferred	Precipitation predictability
+Ad19	Fipa	East Tropical Africa	15	0.695102471	Cousin marriages preferred	Precipitation predictability
+Ad2	Nyoro	East Tropical Africa	15	0.593896955	Cousin marriages preferred	Precipitation predictability
+Ad20	Nyamwezi	East Tropical Africa	15	0.670562023	Cousin marriages preferred	Precipitation predictability
+Ad21	Pimbwe	East Tropical Africa	15	0.666615506	Cousin marriages preferred	Precipitation predictability
+Ad22	Sukuma	East Tropical Africa	15	0.631092523	Cousin marriages preferred	Precipitation predictability
+Ad23	Sangu	East Tropical Africa	15	0.730191172	Cousin marriages preferred	Precipitation predictability
+Ad24	Gogo	East Tropical Africa	2	0.715083965	Cousin marriages preferred	Precipitation predictability
+Ad26	Turu	East Tropical Africa	15	0.693536368	Cousin marriages preferred	Precipitation predictability
+Ad27	Kwere	East Tropical Africa	15	0.709989626	Cousin marriages preferred	Precipitation predictability
+Ad29	Hadimu	East Tropical Africa	15	0.688877033	Cousin marriages preferred	Precipitation predictability
+Ad3	Chagga	East Tropical Africa	15	0.697529515	Cousin marriages preferred	Precipitation predictability
+Ad30	Digo	East Tropical Africa	15	0.695016121	Cousin marriages preferred	Precipitation predictability
+Ad31	Duruma	East Tropical Africa	15	0.695016121	Cousin marriages preferred	Precipitation predictability
+Ad32	Giriama	East Tropical Africa	15	0.62801422	Cousin marriages preferred	Precipitation predictability
+Ad33	Pokomo	East Tropical Africa	15	0.654893638	Cousin marriages preferred	Precipitation predictability
+Ad35	Meru	East Tropical Africa	15	0.543744024	Cousin marriages preferred	Precipitation predictability
+Ad38	Kara	East Tropical Africa	15	0.620993094	Cousin marriages preferred	Precipitation predictability
+Ad39	Sonjo	East Tropical Africa	15	0.67656979799999994	Cousin marriages preferred	Precipitation predictability
+Ad4	Kikuyu	East Tropical Africa	15	0.694980112	Cousin marriages preferred	Precipitation predictability
+Ad40	Tiriki	East Tropical Africa	15	0.543744024	Cousin marriages preferred	Precipitation predictability
+Ad41	Vugusu	East Tropical Africa	15	0.500903488	Cousin marriages preferred	Precipitation predictability
+Ad42	Haya	East Tropical Africa	15	0.646624755	Cousin marriages preferred	Precipitation predictability
+Ad43	Kerewe	East Tropical Africa	15	0.62751135	Cousin marriages preferred	Precipitation predictability
+Ad45	Nyankole	East Tropical Africa	15	0.663037149	Cousin marriages preferred	Precipitation predictability
+Ad46	Soga	East Tropical Africa	15	0.567694527	Cousin marriages preferred	Precipitation predictability
+Ad47	Sumbwa	East Tropical Africa	15	0.647520165	Cousin marriages preferred	Precipitation predictability
+Ad5	Mbugwe	East Tropical Africa	15	0.700747974	Cousin marriages preferred	Precipitation predictability
+Ad50	Kaguru	East Tropical Africa	15	0.700393245	Cousin marriages preferred	Precipitation predictability
+Ad51	Ngulu	East Tropical Africa	15	0.708798121	Cousin marriages preferred	Precipitation predictability
+Ad6	Nyakyusa	East Tropical Africa	15	0.730610024	Cousin marriages preferred	Precipitation predictability
+Ad7	Ganda	East Tropical Africa	15	0.606249416	Cousin marriages preferred	Precipitation predictability
+Ad8	Hehe	East Tropical Africa	2	0.738689374	Cousin marriages preferred	Precipitation predictability
+Ad9	Gisu	East Tropical Africa	15	0.494514871	Cousin marriages preferred	Precipitation predictability
+Ae1	Amba	West-Central Tropical Africa	15	0.701277611	Cousin marriages preferred	Precipitation predictability
+Ae10	Banyaruanda	West-Central Tropical Africa	15	0.699533102	Cousin marriages preferred	Precipitation predictability
+Ae11	Songola	West-Central Tropical Africa	15	0.660034178	Cousin marriages preferred	Precipitation predictability
+Ae13	Bashi	West-Central Tropical Africa	15	0.69090874	Cousin marriages preferred	Precipitation predictability
+Ae14	Ha	East Tropical Africa	15	0.625810295	Cousin marriages preferred	Precipitation predictability
+Ae17	Rega	West-Central Tropical Africa	15	0.673103424	Cousin marriages preferred	Precipitation predictability
+Ae18	Songye	West-Central Tropical Africa	15	0.622135293	Cousin marriages preferred	Precipitation predictability
+Ae19	Garanganze	West-Central Tropical Africa	15	0.705703826	Cousin marriages preferred	Precipitation predictability
+Ae2	Kpe	West-Central Tropical Africa	15	0.72172259	Cousin marriages preferred	Precipitation predictability
+Ae20	Ekonda	West-Central Tropical Africa	15	0.781896635	Cousin marriages preferred	Precipitation predictability
+Ae21	Kela	West-Central Tropical Africa	15	0.720888388	Cousin marriages preferred	Precipitation predictability
+Ae22	Kutsu	West-Central Tropical Africa	15	0.709456893	Cousin marriages preferred	Precipitation predictability
+Ae25	Tetela	West-Central Tropical Africa	15	0.673813799	Cousin marriages preferred	Precipitation predictability
+Ae29	Poto	West-Central Tropical Africa	15	0.791869282	Cousin marriages preferred	Precipitation predictability
+Ae3	Fang	West-Central Tropical Africa	15	0.793796937	Cousin marriages preferred	Precipitation predictability
+Ae39	Ngombe	West-Central Tropical Africa	15	0.79482705	Cousin marriages preferred	Precipitation predictability
+Ae4	Nkundo	West-Central Tropical Africa	15	0.786745245	Cousin marriages preferred	Precipitation predictability
+Ae41	Kota	West-Central Tropical Africa	15	0.816558567	Cousin marriages preferred	Precipitation predictability
+Ae44	Bubi	West-Central Tropical Africa	15	0.707212918	Cousin marriages preferred	Precipitation predictability
+Ae47	Puku	West-Central Tropical Africa	15	0.775067718	Cousin marriages preferred	Precipitation predictability
+Ae5	Bamileke	West-Central Tropical Africa	15	0.740547038	Cousin marriages preferred	Precipitation predictability
+Ae52	Fungom	West Tropical Africa	15	0.661109667	Cousin marriages preferred	Precipitation predictability
+Ae53	Koko	West-Central Tropical Africa	15	0.775125494	Cousin marriages preferred	Precipitation predictability
+Ae54	Kom	West-Central Tropical Africa	15	0.704446179	Cousin marriages preferred	Precipitation predictability
+Ae56	Nsaw	West-Central Tropical Africa	15	0.695421288	Cousin marriages preferred	Precipitation predictability
+Ae58	Tikar	West-Central Tropical Africa	15	0.686902059	Cousin marriages preferred	Precipitation predictability
+Ae6	Luba	West-Central Tropical Africa	15	0.618437658	Cousin marriages preferred	Precipitation predictability
+Ae8	Rundi	West-Central Tropical Africa	1	0.703627719	Cousin marriages preferred	Precipitation predictability
+Ae9	Fut	West-Central Tropical Africa	15	0.704446179	Cousin marriages preferred	Precipitation predictability
+Af1	Fon	West Tropical Africa	15	0.664044008	Cousin marriages preferred	Precipitation predictability
+Af10	Igbo	West Tropical Africa	15	0.703991484	Cousin marriages preferred	Precipitation predictability
+Af11	Toma	West Tropical Africa	15	0.650848973	Cousin marriages preferred	Precipitation predictability
+Af13	Ebira	West Tropical Africa	15	0.658579999	Cousin marriages preferred	Precipitation predictability
+Af14	Sherbro	West Tropical Africa	15	0.655307839	Cousin marriages preferred	Precipitation predictability
+Af15	Kpelle	West Tropical Africa	15	0.707565706	Cousin marriages preferred	Precipitation predictability
+Af17	Boki	West Tropical Africa	15	0.709344326	Cousin marriages preferred	Precipitation predictability
+Af18	Ekoi	West Tropical Africa	15	0.698868474	Cousin marriages preferred	Precipitation predictability
+Af19	Efik	West Tropical Africa	15	0.708400565	Cousin marriages preferred	Precipitation predictability
+Af2	Kissi	West Tropical Africa	5	0.646841184	Cousin marriages preferred	Precipitation predictability
+Af20	Ibibio	West Tropical Africa	15	0.708400565	Cousin marriages preferred	Precipitation predictability
+Af22	Itsekiri	West Tropical Africa	15	0.668134206	Cousin marriages preferred	Precipitation predictability
+Af23	Afikpo	West Tropical Africa	14	0.698868474	Cousin marriages preferred	Precipitation predictability
+Af24	Edo	West Tropical Africa	15	0.696562288	Cousin marriages preferred	Precipitation predictability
+Af25	Isoko	West Tropical Africa	15	0.67085846	Cousin marriages preferred	Precipitation predictability
+Af26	Kukuruku	West Tropical Africa	15	0.694317424	Cousin marriages preferred	Precipitation predictability
+Af27	Eloyi	West Tropical Africa	15	0.660239869	Cousin marriages preferred	Precipitation predictability
+Af28	Gbagyi	West Tropical Africa	15	0.637797604	Cousin marriages preferred	Precipitation predictability
+Af29	Idoma	West Tropical Africa	15	0.670338848	Cousin marriages preferred	Precipitation predictability
+Af3	Ashanti	West Tropical Africa	2	0.693587053	Cousin marriages preferred	Precipitation predictability
+Af32	Egba	West Tropical Africa	15	0.661389662	Cousin marriages preferred	Precipitation predictability
+Af33	Ekiti	West Tropical Africa	15	0.671206656	Cousin marriages preferred	Precipitation predictability
+Af34	Ife	West Tropical Africa	15	0.687232947	Cousin marriages preferred	Precipitation predictability
+Af36	Ewe	West Tropical Africa	15	0.678918673	Cousin marriages preferred	Precipitation predictability
+Af37	Buem	West Tropical Africa	15	0.682313351	Cousin marriages preferred	Precipitation predictability
+Af38	Abron	West Tropical Africa	15	0.659562923	Cousin marriages preferred	Precipitation predictability
+Af39	Anyi	West Tropical Africa	3	0.701497086	Cousin marriages preferred	Precipitation predictability
+Af4	Yako	West Tropical Africa	3	0.698868474	Cousin marriages preferred	Precipitation predictability
+Af40	Assini	West Tropical Africa	15	0.711477001	Cousin marriages preferred	Precipitation predictability
+Af41	Attie	West Tropical Africa	15	0.720543154	Cousin marriages preferred	Precipitation predictability
+Af42	Fante	West Tropical Africa	2	0.714082201	Cousin marriages preferred	Precipitation predictability
+Af43	Ga	West Tropical Africa	9	0.668501034	Cousin marriages preferred	Precipitation predictability
+Af45	Avikam	West Tropical Africa	15	0.714499712	Cousin marriages preferred	Precipitation predictability
+Af46	Bakwe	West Tropical Africa	15	0.689532144	Cousin marriages preferred	Precipitation predictability
+Af47	Krahn	West Tropical Africa	15	0.724124178	Cousin marriages preferred	Precipitation predictability
+Af49	Sapo	West Tropical Africa	15	0.706440247	Cousin marriages preferred	Precipitation predictability
+Af5	Mende	West Tropical Africa	5	0.699963392	Cousin marriages preferred	Precipitation predictability
+Af54	Gbande	West Tropical Africa	15	0.683279012	Cousin marriages preferred	Precipitation predictability
+Af55	Gola	West Tropical Africa	15	0.692603953	Cousin marriages preferred	Precipitation predictability
+Af56	Ngere	West Tropical Africa	15	0.710205223	Cousin marriages preferred	Precipitation predictability
+Af57	Temne	West Tropical Africa	15	0.651461514	Cousin marriages preferred	Precipitation predictability
+Af58	Vai	West Tropical Africa	15	0.675691155	Cousin marriages preferred	Precipitation predictability
+Af6	Oyo Yoruba	West Tropical Africa	15	0.664894844	Cousin marriages preferred	Precipitation predictability
+Af7	Bete	West Tropical Africa	15	0.727759279	Cousin marriages preferred	Precipitation predictability
+Af8	Nupe	West Tropical Africa	15	0.642369716	Cousin marriages preferred	Precipitation predictability
+Af9	Baule	West Tropical Africa	15	0.669133816	Cousin marriages preferred	Precipitation predictability
+Ag1	Bambara	West Tropical Africa	2	0.639973372	Cousin marriages preferred	Precipitation predictability
+Ag10	Konkomba	West Tropical Africa	15	0.632138368	Cousin marriages preferred	Precipitation predictability
+Ag11	Lobi	West Tropical Africa	3	0.642030762	Cousin marriages preferred	Precipitation predictability
+Ag12	Nankanse	West Tropical Africa	15	0.645781212	Cousin marriages preferred	Precipitation predictability
+Ag13	Kasena	West Tropical Africa	15	0.634377422	Cousin marriages preferred	Precipitation predictability
+Ag15	Balanta	West Tropical Africa	15	0.541227919	Cousin marriages preferred	Precipitation predictability
+Ag16	Banyun	West Tropical Africa	15	0.541227919	Cousin marriages preferred	Precipitation predictability
+Ag18	Bijogo	West Tropical Africa	15	0.541697262	Cousin marriages preferred	Precipitation predictability
+Ag19	Diola	West Tropical Africa	15	0.546553988	Cousin marriages preferred	Precipitation predictability
+Ag2	Mossi (Yatenga)	West Tropical Africa	15	0.625885985	Cousin marriages preferred	Precipitation predictability
+Ag22	Serer	West Tropical Africa	15	0.570166884	Cousin marriages preferred	Precipitation predictability
+Ag23	Kasonke	West Tropical Africa	15	0.599238879	Cousin marriages preferred	Precipitation predictability
+Ag24	Koranko	West Tropical Africa	15	0.656981686	Cousin marriages preferred	Precipitation predictability
+Ag25	Soninke	West Tropical Africa	15	0.557587057	Cousin marriages preferred	Precipitation predictability
+Ag26	Susu	West Tropical Africa	1	0.542108696	Cousin marriages preferred	Precipitation predictability
+Ag27	Diula	West Tropical Africa	15	0.640460176	Cousin marriages preferred	Precipitation predictability
+Ag3	Dogon	West Tropical Africa	15	0.609944261	Cousin marriages preferred	Precipitation predictability
+Ag32	Senufo	West Tropical Africa	15	0.652037581	Cousin marriages preferred	Precipitation predictability
+Ag33	Dyan	West Tropical Africa	1	0.643247877	Cousin marriages preferred	Precipitation predictability
+Ag34	Dorosie	West Tropical Africa	1	0.64578344	Cousin marriages preferred	Precipitation predictability
+Ag35	Kulango	West Tropical Africa	15	0.693845475	Cousin marriages preferred	Precipitation predictability
+Ag36	Lowiili	West Tropical Africa	3	0.643247877	Cousin marriages preferred	Precipitation predictability
+Ag37	Awuna	West Tropical Africa	15	0.633566657	Cousin marriages preferred	Precipitation predictability
+Ag39	Dagara	West Tropical Africa	15	0.643247877	Cousin marriages preferred	Precipitation predictability
+Ag4	Tallensi	West Tropical Africa	15	0.634377422	Cousin marriages preferred	Precipitation predictability
+Ag40	Isala	West Tropical Africa	15	0.649792556	Cousin marriages preferred	Precipitation predictability
+Ag41	Kusasi	West Tropical Africa	15	0.635564105	Cousin marriages preferred	Precipitation predictability
+Ag43	Vagala	West Tropical Africa	15	0.657438552	Cousin marriages preferred	Precipitation predictability
+Ag44	Dagomba	West Tropical Africa	15	0.625751881	Cousin marriages preferred	Precipitation predictability
+Ag45	Gurma	West Tropical Africa	15	0.638348229	Cousin marriages preferred	Precipitation predictability
+Ag46	Manprusi	West Tropical Africa	15	0.645781212	Cousin marriages preferred	Precipitation predictability
+Ag47	Mossi (Ouagadougou)	West Tropical Africa	15	0.629479251	Cousin marriages preferred	Precipitation predictability
+Ag49	Kabre	West Tropical Africa	15	0.631465463	Cousin marriages preferred	Precipitation predictability
+Ag5	Birifor	West Tropical Africa	3	0.642084121	Cousin marriages preferred	Precipitation predictability
+Ag51	Somba	West Tropical Africa	15	0.635848397	Cousin marriages preferred	Precipitation predictability
+Ag53	Bisa	West Tropical Africa	15	0.625882373	Cousin marriages preferred	Precipitation predictability
+Ag54	Yalunka	West Tropical Africa	2	0.624530075	Cousin marriages preferred	Precipitation predictability
+Ag6	Futajalonke	West Tropical Africa	8	0.624842754	Cousin marriages preferred	Precipitation predictability
+Ag7	Bozo	West Tropical Africa	15	0.625220877	Cousin marriages preferred	Precipitation predictability
+Ag8	Coniagui	West Tropical Africa	15	0.594070238	Cousin marriages preferred	Precipitation predictability
+Ag9	Malinke	West Tropical Africa	15	0.650848973	Cousin marriages preferred	Precipitation predictability
+Ah1	Katab	West Tropical Africa	15	0.623793936	Cousin marriages preferred	Precipitation predictability
+Ah11	Basa	West Tropical Africa	15	0.660239869	Cousin marriages preferred	Precipitation predictability
+Ah12	Basakomo	West Tropical Africa	15	0.658579999	Cousin marriages preferred	Precipitation predictability
+Ah15	Reshe	West Tropical Africa	15	0.637489757	Cousin marriages preferred	Precipitation predictability
+Ah16	Angas	West Tropical Africa	15	0.651400995	Cousin marriages preferred	Precipitation predictability
+Ah17	Birom	West Tropical Africa	15	0.628108462	Cousin marriages preferred	Precipitation predictability
+Ah18	Burmawa	West Tropical Africa	15	0.637797604	Cousin marriages preferred	Precipitation predictability
+Ah19	Adara	West Tropical Africa	15	0.623793936	Cousin marriages preferred	Precipitation predictability
+Ah2	Jukun	West Tropical Africa	15	0.654270613	Cousin marriages preferred	Precipitation predictability
+Ah20	Kagoro	West Tropical Africa	15	0.623793936	Cousin marriages preferred	Precipitation predictability
+Ah21	Kurama	West Tropical Africa	15	0.628108462	Cousin marriages preferred	Precipitation predictability
+Ah23	Jibu	West Tropical Africa	1	0.647475788	Cousin marriages preferred	Precipitation predictability
+Ah24	Kentu	West Tropical Africa	15	0.661109667	Cousin marriages preferred	Precipitation predictability
+Ah25	Tigon	West Tropical Africa	15	0.48405039	Cousin marriages preferred	Precipitation predictability
+Ah26	Ndoro	West Tropical Africa	1	0.650278655	Cousin marriages preferred	Precipitation predictability
+Ah27	Zuande	West Tropical Africa	2	0.650278655	Cousin marriages preferred	Precipitation predictability
+Ah28	Chamba	West Tropical Africa	15	0.647475788	Cousin marriages preferred	Precipitation predictability
+Ah3	Tiv	West Tropical Africa	15	0.661512761	Cousin marriages preferred	Precipitation predictability
+Ah30	Longuda	West Tropical Africa	15	0.651347315	Cousin marriages preferred	Precipitation predictability
+Ah31	Mumuye	West Tropical Africa	15	0.655914864	Cousin marriages preferred	Precipitation predictability
+Ah32	Vere	West-Central Tropical Africa	15	0.656039328	Cousin marriages preferred	Precipitation predictability
+Ah33	Yungur	West Tropical Africa	15	0.651347315	Cousin marriages preferred	Precipitation predictability
+Ah34	Bata	West Tropical Africa	15	0.64799156	Cousin marriages preferred	Precipitation predictability
+Ah35	Bura	West Tropical Africa	15	0.651347315	Cousin marriages preferred	Precipitation predictability
+Ah36	Gude	West Tropical Africa	15	0.64799156	Cousin marriages preferred	Precipitation predictability
+Ah37	Hwana	West Tropical Africa	15	0.64799156	Cousin marriages preferred	Precipitation predictability
+Ah38	Kapsiki	West-Central Tropical Africa	15	0.664229396	Cousin marriages preferred	Precipitation predictability
+Ah4	Mambila	West-Central Tropical Africa	15	0.636157658	Cousin marriages preferred	Precipitation predictability
+Ah5	Margi	West Tropical Africa	15	0.654336285	Cousin marriages preferred	Precipitation predictability
+Ah6	Gure	West Tropical Africa	15	0.623793936	Cousin marriages preferred	Precipitation predictability
+Ah7	Mafa	West-Central Tropical Africa	15	0.664229396	Cousin marriages preferred	Precipitation predictability
+Ah8	Bafute	West-Central Tropical Africa	15	0.686902059	Cousin marriages preferred	Precipitation predictability
+Ah9	Anaguta	West Tropical Africa	15	0.628108462	Cousin marriages preferred	Precipitation predictability
+Ai1	Banda	West-Central Tropical Africa	15	0.69113208	Cousin marriages preferred	Precipitation predictability
+Ai10	Otoro	Northeast Tropical Africa	15	0.64772961	Cousin marriages preferred	Precipitation predictability
+Ai11	Mangbetu	West-Central Tropical Africa	15	0.78450255	Cousin marriages preferred	Precipitation predictability
+Ai12	Fali	West-Central Tropical Africa	15	0.665976539	Cousin marriages preferred	Precipitation predictability
+Ai2	Nyaro	Northeast Tropical Africa	15	0.660909925	Cousin marriages preferred	Precipitation predictability
+Ai23	Bwaka	West-Central Tropical Africa	15	0.795489309	Cousin marriages preferred	Precipitation predictability
+Ai28	Popoi	West-Central Tropical Africa	15	0.794959772	Cousin marriages preferred	Precipitation predictability
+Ai29	Lendu	West-Central Tropical Africa	15	0.715447931	Cousin marriages preferred	Precipitation predictability
+Ai3	Azande	West-Central Tropical Africa	15	0.735685942	Cousin marriages preferred	Precipitation predictability
+Ai32	Lugbara	East Tropical Africa	15	0.589365433	Cousin marriages preferred	Precipitation predictability
+Ai35	Bongo	Northeast Tropical Africa	15	0.677985225	Cousin marriages preferred	Precipitation predictability
+Ai36	Jur	Northeast Tropical Africa	15	0.67985948	Cousin marriages preferred	Precipitation predictability
+Ai37	Koalib	Northeast Tropical Africa	15	0.64772961	Cousin marriages preferred	Precipitation predictability
+Ai38	Korongo	Northeast Tropical Africa	15	0.673001125	Cousin marriages preferred	Precipitation predictability
+Ai39	Mesakin	Northeast Tropical Africa	15	0.658935186	Cousin marriages preferred	Precipitation predictability
+Ai4	Ingassana	Northeast Tropical Africa	15	0.636211148	Cousin marriages preferred	Precipitation predictability
+Ai40	Moro	Northeast Tropical Africa	15	0.658935186	Cousin marriages preferred	Precipitation predictability
+Ai41	Tira	Northeast Tropical Africa	15	0.658935186	Cousin marriages preferred	Precipitation predictability
+Ai42	Tullishi	Northeast Tropical Africa	15	0.665595091	Cousin marriages preferred	Precipitation predictability
+Ai43	Nyimang	Northeast Tropical Africa	15	0.665595091	Cousin marriages preferred	Precipitation predictability
+Ai44	Anuak	Northeast Tropical Africa	15	0.63353834	Cousin marriages preferred	Precipitation predictability
+Ai45	Meban	Northeast Tropical Africa	15	0.637085147	Cousin marriages preferred	Precipitation predictability
+Ai46	Koma	Northeast Tropical Africa	15	0.642023331	Cousin marriages preferred	Precipitation predictability
+Ai47	Mao	Northeast Tropical Africa	15	0.642023331	Cousin marriages preferred	Precipitation predictability
+Ai6	Shilluk	Northeast Tropical Africa	15	0.678459919	Cousin marriages preferred	Precipitation predictability
+Ai7	Gbaya	West-Central Tropical Africa	15	0.687669252	Cousin marriages preferred	Precipitation predictability
+Ai8	Dilling	Northeast Tropical Africa	15	0.652274777	Cousin marriages preferred	Precipitation predictability
+Ai9	Masa	Northeast Tropical Africa	15	0.65465359	Cousin marriages preferred	Precipitation predictability
+Aj1	Teso	East Tropical Africa	15	0.492104991	Cousin marriages preferred	Precipitation predictability
+Aj11	Dinka	Northeast Tropical Africa	15	0.681986318	Cousin marriages preferred	Precipitation predictability
+Aj12	Lotuko	Northeast Tropical Africa	15	0.56847313	Cousin marriages preferred	Precipitation predictability
+Aj13	Pojulu	Northeast Tropical Africa	15	0.663595274	Cousin marriages preferred	Precipitation predictability
+Aj14	Kakwa	Northeast Tropical Africa	15	0.663595274	Cousin marriages preferred	Precipitation predictability
+Aj15	Kuku	Northeast Tropical Africa	15	0.60737177	Cousin marriages preferred	Precipitation predictability
+Aj17	Alur	West-Central Tropical Africa	15	0.655343962	Cousin marriages preferred	Precipitation predictability
+Aj2	Maasi	East Tropical Africa	15	0.668126912	Cousin marriages preferred	Precipitation predictability
+Aj21	Jie	East Tropical Africa	15	0.509282883	Cousin marriages preferred	Precipitation predictability
+Aj22	Labwor	East Tropical Africa	15	0.509282883	Cousin marriages preferred	Precipitation predictability
+Aj23	Plains Suk	East Tropical Africa	15	0.52463228	Cousin marriages preferred	Precipitation predictability
+Aj26	Hill Suk	East Tropical Africa	15	0.52463228	Cousin marriages preferred	Precipitation predictability
+Aj28	Tatoga	East Tropical Africa	15	0.706631783	Cousin marriages preferred	Precipitation predictability
+Aj3	Nuer	Northeast Tropical Africa	15	0.681309251	Cousin marriages preferred	Precipitation predictability
+Aj4	Lango	East Tropical Africa	15	0.539089839	Cousin marriages preferred	Precipitation predictability
+Aj5	Turkana	East Tropical Africa	15	0.522740038	Cousin marriages preferred	Precipitation predictability
+Aj6	Luo	East Tropical Africa	15	0.563846674	Cousin marriages preferred	Precipitation predictability
+Aj7	Nandi	East Tropical Africa	15	0.543744024	Cousin marriages preferred	Precipitation predictability
+Aj8	Bari	Northeast Tropical Africa	15	0.628272811	Cousin marriages preferred	Precipitation predictability
+Aj9	Kipsigis	East Tropical Africa	15	0.653819942	Cousin marriages preferred	Precipitation predictability
+Ca1	Konso	Northeast Tropical Africa	15	0.54025285	Cousin marriages preferred	Precipitation predictability
+Ca10	Somali (Esa)	Northeast Tropical Africa	15	0.581370695	Cousin marriages preferred	Precipitation predictability
+Ca11	Arusi	Northeast Tropical Africa	15	0.570904338	Cousin marriages preferred	Precipitation predictability
+Ca13	Macha	Northeast Tropical Africa	15	0.570773653	Cousin marriages preferred	Precipitation predictability
+Ca2	Somali (Dolbahanta)	Northeast Tropical Africa	15	0.615086064	Cousin marriages preferred	Precipitation predictability
+Ca22	Male	Northeast Tropical Africa	15	0.54025285	Cousin marriages preferred	Precipitation predictability
+Ca27	Anfillo	Northeast Tropical Africa	15	0.642023331	Cousin marriages preferred	Precipitation predictability
+Ca28	Basketo	Northeast Tropical Africa	15	0.54025285	Cousin marriages preferred	Precipitation predictability
+Ca3	Tigrinya	Northeast Tropical Africa	15	0.494970404	Cousin marriages preferred	Precipitation predictability
+Ca30	Kafa	Northeast Tropical Africa	15	0.577732322	Cousin marriages preferred	Precipitation predictability
+Ca32	Nara	Northeast Tropical Africa	15	0.55962197	Cousin marriages preferred	Precipitation predictability
+Ca33	Kunama	Northeast Tropical Africa	15	0.523763633	Cousin marriages preferred	Precipitation predictability
+Ca34	Ababda	Northern Africa	7	0.299661619	Cousin marriages preferred	Precipitation predictability
+Ca35	Amarar	Northeast Tropical Africa	7	0.360851646	Cousin marriages preferred	Precipitation predictability
+Ca36	Beni-Amer	Northeast Tropical Africa	7	0.459285001	Cousin marriages preferred	Precipitation predictability
+Ca38	Tigre	Northeast Tropical Africa	15	0.42786489	Cousin marriages preferred	Precipitation predictability
+Ca39	Jimma	Northeast Tropical Africa	15	0.582944135	Cousin marriages preferred	Precipitation predictability
+Ca40	Baditu	Northeast Tropical Africa	15	0.564125787	Cousin marriages preferred	Precipitation predictability
+Ca5	Bisharin	Northeast Tropical Africa	7	0.349082226	Cousin marriages preferred	Precipitation predictability
+Ca6	Afar	Northeast Tropical Africa	15	0.544654409	Cousin marriages preferred	Precipitation predictability
+Ca7	Amhara	Northeast Tropical Africa	15	0.51048393	Cousin marriages preferred	Precipitation predictability
+Cb1	Maguzawa	West Tropical Africa	2	0.632908648	Cousin marriages preferred	Precipitation predictability
+Cb10	Karekare	West Tropical Africa	15	0.634465805	Cousin marriages preferred	Precipitation predictability
+Cb11	Midobi	Northeast Tropical Africa	15	0.404569303	Cousin marriages preferred	Precipitation predictability
+Cb12	Gimma	Northeast Tropical Africa	15	0.64292812	Cousin marriages preferred	Precipitation predictability
+Cb13	Habbaniya	Northeast Tropical Africa	15	0.662044501	Cousin marriages preferred	Precipitation predictability
+Cb15	Messiria Humr	Northeast Tropical Africa	7	0.648542198	Cousin marriages preferred	Precipitation predictability
+Cb16	Shuwa	Northeast Tropical Africa	15	0.613151358	Cousin marriages preferred	Precipitation predictability
+Cb17	Fur	Northeast Tropical Africa	15	0.653299973	Cousin marriages preferred	Precipitation predictability
+Cb18	Kanembu	Northeast Tropical Africa	15	0.574870597	Cousin marriages preferred	Precipitation predictability
+Cb19	Kanuri	West Tropical Africa	15	0.644795804	Cousin marriages preferred	Precipitation predictability
+Cb2	Wolof	West Tropical Africa	1	0.488258608	Cousin marriages preferred	Precipitation predictability
+Cb21	Djafun	West-Central Tropical Africa	1	0.636031801	Cousin marriages preferred	Precipitation predictability
+Cb22	Liptako	West Tropical Africa	15	0.627532903	Cousin marriages preferred	Precipitation predictability
+Cb23	Tukulor	West Tropical Africa	15	0.529908859	Cousin marriages preferred	Precipitation predictability
+Cb24	Wodaabe Fulani	West Tropical Africa	7	0.637807244	Cousin marriages preferred	Precipitation predictability
+Cb25	Tazarawa Hausa	West Tropical Africa	15	0.590696526	Cousin marriages preferred	Precipitation predictability
+Cb26	Zazzagawa Hausa	West Tropical Africa	8	0.625089934	Cousin marriages preferred	Precipitation predictability
+Cb27	Bachama	West Tropical Africa	15	0.651347315	Cousin marriages preferred	Precipitation predictability
+Cb28	Dera	West Tropical Africa	15	0.651347315	Cousin marriages preferred	Precipitation predictability
+Cb3	Songhai	West Tropical Africa	15	0.58262713	Cousin marriages preferred	Precipitation predictability
+Cb4	Hasania	Northeast Tropical Africa	7	0.59833671	Cousin marriages preferred	Precipitation predictability
+Cb5	Buduma	Northeast Tropical Africa	15	0.613151358	Cousin marriages preferred	Precipitation predictability
+Cb6	Tera	West Tropical Africa	15	0.634432161	Cousin marriages preferred	Precipitation predictability
+Cb7	Bolewa	West Tropical Africa	15	0.629737798	Cousin marriages preferred	Precipitation predictability
+Cb8	Bororo Fulani	West Tropical Africa	15	0.634046885	Cousin marriages preferred	Precipitation predictability
+Cb9	Hausa Kanawa	West Tropical Africa	7	0.629093131	Cousin marriages preferred	Precipitation predictability
+Cc1	Regeibat	West Tropical Africa	7	0.342185536	Cousin marriages preferred	Precipitation predictability
+Cc10	Asben	West Tropical Africa	2	0.479306087	Cousin marriages preferred	Precipitation predictability
+Cc13	Udalan Tuareg	West Tropical Africa	15	0.606168053	Cousin marriages preferred	Precipitation predictability
+Cc14	Daza	Northeast Tropical Africa	15	0.524608736	Cousin marriages preferred	Precipitation predictability
+Cc16	Chaambra	Northern Africa	7	0.343308368	Cousin marriages preferred	Precipitation predictability
+Cc17	Delim	Northern Africa	7	0.376534047	Cousin marriages preferred	Precipitation predictability
+Cc2	Teda	Northeast Tropical Africa	15	0.306466499	Cousin marriages preferred	Precipitation predictability
+Cc20	Zenaga	West Tropical Africa	7	0.491047617	Cousin marriages preferred	Precipitation predictability
+Cc3	Siwans	Northern Africa	15	0.406677107	Cousin marriages preferred	Precipitation predictability
+Cc5	Kel Antessar	West Tropical Africa	8	0.534192973	Cousin marriages preferred	Precipitation predictability
+Cc6	Kababish	Northeast Tropical Africa	7	0.418159482	Cousin marriages preferred	Precipitation predictability
+Cc7	Barabish	West Tropical Africa	7	0.456371503	Cousin marriages preferred	Precipitation predictability
+Cc9	Tuareg Ahaggar	Northern Africa	2	0.281079539	Cousin marriages preferred	Precipitation predictability
+Cd1	Barabra	Northern Africa	7	0.306559345	Cousin marriages preferred	Precipitation predictability
+Cd10	Zekara	Northern Africa	15	0.489926818	Cousin marriages preferred	Precipitation predictability
+Cd11	Guanche	Macaronesia	15	0.578959518	Cousin marriages preferred	Precipitation predictability
+Cd12	Algerians	Northern Africa	7	0.296486515	Cousin marriages preferred	Precipitation predictability
+Cd13	Hamama	Northern Africa	7	0.306825477	Cousin marriages preferred	Precipitation predictability
+Cd14	Hamyan	Northern Africa	7	0.53178604	Cousin marriages preferred	Precipitation predictability
+Cd16	Moroccans	Northern Africa	7	0.495523711	Cousin marriages preferred	Precipitation predictability
+Cd17	Nail	Northern Africa	7	0.503220623	Cousin marriages preferred	Precipitation predictability
+Cd18	Saadi	Northern Africa	7	0.515175097	Cousin marriages preferred	Precipitation predictability
+Cd19	Sahel	Northern Africa	7	0.457647457	Cousin marriages preferred	Precipitation predictability
+Cd2	Egyptians	Northern Africa	7	0.351085543	Cousin marriages preferred	Precipitation predictability
+Cd20	Sanusi	Northern Africa	7	0.487478422	Cousin marriages preferred	Precipitation predictability
+Cd21	Tunisians	Northern Africa	7	0.483237163	Cousin marriages preferred	Precipitation predictability
+Cd3	Riffians	Northern Africa	15	0.460331857	Cousin marriages preferred	Precipitation predictability
+Cd4	Kabyle	Northern Africa	15	0.543357887	Cousin marriages preferred	Precipitation predictability
+Cd6	Ancient Egyptians	Northern Africa	15	0.465784986	Cousin marriages preferred	Precipitation predictability
+Cd7	Beraber	Northern Africa	7	0.474401574	Cousin marriages preferred	Precipitation predictability
+Cd8	Shawiya	Northern Africa	7	0.531556535	Cousin marriages preferred	Precipitation predictability
+Ce1	Gheg	Southeastern Europe	2	0.604053057	Cousin marriages preferred	Precipitation predictability
+Ce2	Portuguese	Southwestern Europe	15	0.627036525	Cousin marriages preferred	Precipitation predictability
+Ce3	Ancient Romans	Southeastern Europe	15	0.543290237	Cousin marriages preferred	Precipitation predictability
+Ce5	Neapolitans	Southeastern Europe	15	0.554859426	Cousin marriages preferred	Precipitation predictability
+Ce6	Spaniards	Southwestern Europe	15	0.449622836	Cousin marriages preferred	Precipitation predictability
+Ce7	Greeks	Southeastern Europe	15	0.566498765	Cousin marriages preferred	Precipitation predictability
+Cf1	New Englanders	Northeastern U.S.A.	15	0.692136084	Cousin marriages preferred	Precipitation predictability
+Cf4	Brazilians	Brazil	15	0.665059531	Cousin marriages preferred	Precipitation predictability
+Cf5	French Canadians	Eastern Canada	15	0.705693223	Cousin marriages preferred	Precipitation predictability
+Cg1	Dutch	Middle Europe	15	0.700648793	Cousin marriages preferred	Precipitation predictability
+Cg3	Irish	Northern Europe	15	0.759673955	Cousin marriages preferred	Precipitation predictability
+Cg4	Sami	Northern Europe	15	0.732886258	Cousin marriages preferred	Precipitation predictability
+Ch10	Romanians	Southeastern Europe	15	0.621201314	Cousin marriages preferred	Precipitation predictability
+Ch3	Czechs	Middle Europe	15	0.717598066	Cousin marriages preferred	Precipitation predictability
+Ch4	Mari	Caucasus	15	0.704249465	Cousin marriages preferred	Precipitation predictability
+Ch6	Byelorussians	Eastern Europe	15	0.711168833	Cousin marriages preferred	Precipitation predictability
+Ch7	Ukrainians	Eastern Europe	15	0.63219204	Cousin marriages preferred	Precipitation predictability
+Ch8	Magyar	Middle Europe	15	0.65168003	Cousin marriages preferred	Precipitation predictability
+Ch9	Lithuanians	Eastern Europe	15	0.708146	Cousin marriages preferred	Precipitation predictability
+Ci1	Kalmyk	Eastern Europe	15	0.595808727	Cousin marriages preferred	Precipitation predictability
+Ci10	Armenians	Caucasus	15	0.64675006	Cousin marriages preferred	Precipitation predictability
+Ci11	Kurd	Western Asia	7	0.327886576	Cousin marriages preferred	Precipitation predictability
+Ci2	Khevsur	Caucasus	15	0.719037597	Cousin marriages preferred	Precipitation predictability
+Ci5	Turks	Western Asia	15	0.572828489	Cousin marriages preferred	Precipitation predictability
+Ci6	Ossetians	Caucasus	15	0.708502873	Cousin marriages preferred	Precipitation predictability
+Cj1	Syrians	Western Asia	7	0.509138328	Cousin marriages preferred	Precipitation predictability
+Cj10	Madan	Western Asia	7	0.316101734	Cousin marriages preferred	Precipitation predictability
+Cj2	Rwala	Western Asia	7	0.477303292	Cousin marriages preferred	Precipitation predictability
+Cj3	Hebrews	Western Asia	7	0.50533857	Cousin marriages preferred	Precipitation predictability
+Cj5	Mutair	Arabian Peninsula	7	0.282681281	Cousin marriages preferred	Precipitation predictability
+Cj6	Jordanians	Western Asia	7	0.465005353	Cousin marriages preferred	Precipitation predictability
+Cj7	Lebanese	Western Asia	15	0.541161882	Cousin marriages preferred	Precipitation predictability
+Cj8	Druze	Western Asia	7	0.541812434	Cousin marriages preferred	Precipitation predictability
+Ea1	Sindhi	Indian Subcontinent	15	0.358903565	Cousin marriages preferred	Precipitation predictability
+Ea10	Marri	Indian Subcontinent	7	0.338191657	Cousin marriages preferred	Precipitation predictability
+Ea11	Ghilzai	Western Asia	7	0.422185806	Cousin marriages preferred	Precipitation predictability
+Ea12	Qashqui	Western Asia	7	0.301642151	Cousin marriages preferred	Precipitation predictability
+Ea13	Punjabi	Indian Subcontinent	9	0.375759118	Cousin marriages preferred	Precipitation predictability
+Ea2	Yusufzai	Indian Subcontinent	7	0.457179159	Cousin marriages preferred	Precipitation predictability
+Ea3	Hazara	Western Asia	7	0.439273735	Cousin marriages preferred	Precipitation predictability
+Ea5	Nuristani	Western Asia	15	0.475438163	Cousin marriages preferred	Precipitation predictability
+Ea6	Basseri	Western Asia	7	0.456346262	Cousin marriages preferred	Precipitation predictability
+Ea7	Moghol	Western Asia	15	0.368213698	Cousin marriages preferred	Precipitation predictability
+Ea9	Iranians	Western Asia	7	0.550655247	Cousin marriages preferred	Precipitation predictability
+Eb1	Kazakh	Middle Asia	15	0.608834793	Cousin marriages preferred	Precipitation predictability
+Eb2	Tu	China	15	0.663032602	Cousin marriages preferred	Precipitation predictability
+Eb3	Khalka	Mongolia	15	0.636033957	Cousin marriages preferred	Precipitation predictability
+Eb4	Dagur	China	15	0.60269032	Cousin marriages preferred	Precipitation predictability
+Eb5	Turkmen	Middle Asia	4	0.446570108	Cousin marriages preferred	Precipitation predictability
+Eb6	Buryat	Siberia	15	0.717425368	Cousin marriages preferred	Precipitation predictability
+Eb7	Chahar	China	15	0.596450229	Cousin marriages preferred	Precipitation predictability
+Eb8	Uzbek	Middle Asia	8	0.516591538	Cousin marriages preferred	Precipitation predictability
+Ec1	Nivkh	Russian Far East	5	0.636441967	Cousin marriages preferred	Precipitation predictability
+Ec10	Ob Ostyak	Siberia	15	0.683153304	Cousin marriages preferred	Precipitation predictability
+Ec2	Yakut	Siberia	15	0.640606273	Cousin marriages preferred	Precipitation predictability
+Ec3	Chukchi	Russian Far East	15	0.624014115	Cousin marriages preferred	Precipitation predictability
+Ec4	Yurak-Samoyeds	Siberia	13	0.672411117	Cousin marriages preferred	Precipitation predictability
+Ec5	Koryak	Russian Far East	15	0.647261972	Cousin marriages preferred	Precipitation predictability
+Ec6	Yukaghir	Siberia	15	0.633963352	Cousin marriages preferred	Precipitation predictability
+Ec7	Ainu	Eastern Asia	15	0.692827701	Cousin marriages preferred	Precipitation predictability
+Ec9	Nanai	China	15	0.626423761	Cousin marriages preferred	Precipitation predictability
+Ed1	Koreans	Eastern Asia	15	0.719978259	Cousin marriages preferred	Precipitation predictability
+Ed10	Shantung	China	15	0.493192614	Cousin marriages preferred	Precipitation predictability
+Ed15b	Chekiang	China	3	0.590632379	Cousin marriages preferred	Precipitation predictability
+Ed16	Cantonese	China	15	0.581774051	Cousin marriages preferred	Precipitation predictability
+Ed2	Lolo	China	2	0.713142443	Cousin marriages preferred	Precipitation predictability
+Ed3	Manchu	China	15	0.60528414	Cousin marriages preferred	Precipitation predictability
+Ed4	Miao	China	1	0.621900537	Cousin marriages preferred	Precipitation predictability
+Ed5	Japanese	Eastern Asia	15	0.671378257	Cousin marriages preferred	Precipitation predictability
+Ed6	Min Chinese	China	15	0.584224113	Cousin marriages preferred	Precipitation predictability
+Ed7	Okinawans	Eastern Asia	15	0.569102948	Cousin marriages preferred	Precipitation predictability
+Ed8	Minchia	China	15	0.63527074	Cousin marriages preferred	Precipitation predictability
+Ee1	Adi	Indian Subcontinent	15	0.587082013	Cousin marriages preferred	Precipitation predictability
+Ee2	Burusho	China	15	0.640347533	Cousin marriages preferred	Precipitation predictability
+Ee3	Lepcha	China	15	0.55525507	Cousin marriages preferred	Precipitation predictability
+Ee4	Central Tibetans	China	15	0.636666487	Cousin marriages preferred	Precipitation predictability
+Ee5	Shina	Indian Subcontinent	15	0.471102461	Cousin marriages preferred	Precipitation predictability
+Ee6	Sherpa	China	15	0.539280838	Cousin marriages preferred	Precipitation predictability
+Ee8	Magar	Indian Subcontinent	15	0.464763894	Cousin marriages preferred	Precipitation predictability
+Ef1	Santal	Indian Subcontinent	15	0.477548825	Cousin marriages preferred	Precipitation predictability
+Ef10	Bihari	Indian Subcontinent	15	0.468818296	Cousin marriages preferred	Precipitation predictability
+Ef2	Bengali	Indian Subcontinent	15	0.502314859	Cousin marriages preferred	Precipitation predictability
+Ef3	Indo-Iranian	Indian Subcontinent	15	0.369937561	Cousin marriages preferred	Precipitation predictability
+Ef4	Ho	Indian Subcontinent	15	0.526070575	Cousin marriages preferred	Precipitation predictability
+Ef5	Bhil	Indian Subcontinent	15	0.437417703	Cousin marriages preferred	Precipitation predictability
+Ef6	Kurukh	Indian Subcontinent	15	0.504172317	Cousin marriages preferred	Precipitation predictability
+Ef7	Pahari	Indian Subcontinent	15	0.429718714	Cousin marriages preferred	Precipitation predictability
+Ef8	Kashmiri	Indian Subcontinent	15	0.518511766	Cousin marriages preferred	Precipitation predictability
+Ef9	Gujarati	Indian Subcontinent	1	0.499848435	Cousin marriages preferred	Precipitation predictability
+Eg1	Chenchu	Indian Subcontinent	2	0.585790517	Cousin marriages preferred	Precipitation predictability
+Eg10	Telugu	Indian Subcontinent	2	0.548359053	Cousin marriages preferred	Precipitation predictability
+Eg11	Koya	Indian Subcontinent	2	0.535354921	Cousin marriages preferred	Precipitation predictability
+Eg12	Khond	Indian Subcontinent	15	0.610925978	Cousin marriages preferred	Precipitation predictability
+Eg13	Muria Gond	Indian Subcontinent	1	0.550319672	Cousin marriages preferred	Precipitation predictability
+Eg14	Reddi	Indian Subcontinent	2	0.610925978	Cousin marriages preferred	Precipitation predictability
+Eg2	Tamil	Indian Subcontinent	1	0.638324	Cousin marriages preferred	Precipitation predictability
+Eg3	Madia	Indian Subcontinent	1	0.570507844	Cousin marriages preferred	Precipitation predictability
+Eg4	Toda	Indian Subcontinent	1	0.650337315	Cousin marriages preferred	Precipitation predictability
+Eg5	Kodavas	Indian Subcontinent	1	0.618000703	Cousin marriages preferred	Precipitation predictability
+Eg6	Kerala	Indian Subcontinent	2	0.610518816	Cousin marriages preferred	Precipitation predictability
+Eg7	Hill Bhuiya	Indian Subcontinent	15	0.547007956	Cousin marriages preferred	Precipitation predictability
+Eg8	Kol	Indian Subcontinent	15	0.526070575	Cousin marriages preferred	Precipitation predictability
+Eg9	Baiga	Indian Subcontinent	15	0.507825454	Cousin marriages preferred	Precipitation predictability
+Eh1	Andamanese	Indo-China	15	0.589804953	Cousin marriages preferred	Precipitation predictability
+Eh10	Betsileo	Western Indian Ocean	15	0.633222341	Cousin marriages preferred	Precipitation predictability
+Eh2	Merina	Western Indian Ocean	15	0.600791756	Cousin marriages preferred	Precipitation predictability
+Eh3	Tanala	Western Indian Ocean	1	0.633222341	Cousin marriages preferred	Precipitation predictability
+Eh4	Vedda	Indian Subcontinent	3	0.632752036	Cousin marriages preferred	Precipitation predictability
+Eh5	Nicobarese	Indo-China	15	0.581937587	Cousin marriages preferred	Precipitation predictability
+Eh6	Sinhalese	Indian Subcontinent	2	0.619672343	Cousin marriages preferred	Precipitation predictability
+Eh7	Antandroy	Western Indian Ocean	15	0.58486274	Cousin marriages preferred	Precipitation predictability
+Eh8	Sakalava	Western Indian Ocean	15	0.517826552	Cousin marriages preferred	Precipitation predictability
+Eh9	Antaisaka	Western Indian Ocean	15	0.645561299	Cousin marriages preferred	Precipitation predictability
+Ei1	Garo	Indian Subcontinent	2	0.503631168	Cousin marriages preferred	Precipitation predictability
+Ei10	Chakma	Indian Subcontinent	15	0.568694292	Cousin marriages preferred	Precipitation predictability
+Ei11	Aimol	Indian Subcontinent	5	0.571491466	Cousin marriages preferred	Precipitation predictability
+Ei12	Thado	Indian Subcontinent	5	0.571491466	Cousin marriages preferred	Precipitation predictability
+Ei14	Ao	Indian Subcontinent	15	0.551836497	Cousin marriages preferred	Precipitation predictability
+Ei15	Rengma	Indian Subcontinent	5	0.551448045	Cousin marriages preferred	Precipitation predictability
+Ei16	Sema	Indian Subcontinent	5	0.56903677	Cousin marriages preferred	Precipitation predictability
+Ei19	Chin	Indo-China	15	0.570500574	Cousin marriages preferred	Precipitation predictability
+Ei2	Lhota	Indian Subcontinent	5	0.551836497	Cousin marriages preferred	Precipitation predictability
+Ei20	Kuki	Indian Subcontinent	15	0.568694292	Cousin marriages preferred	Precipitation predictability
+Ei3	Burmese	Indo-China	15	0.526765893	Cousin marriages preferred	Precipitation predictability
+Ei4	Maras	Indo-China	4	0.584467034	Cousin marriages preferred	Precipitation predictability
+Ei5	Kachin	Indo-China	5	0.604869368	Cousin marriages preferred	Precipitation predictability
+Ei6	Purum	Indian Subcontinent	5	0.571491466	Cousin marriages preferred	Precipitation predictability
+Ei7	Karen	Indo-China	15	0.541085468	Cousin marriages preferred	Precipitation predictability
+Ei8	Khasi	Indian Subcontinent	15	0.522497357	Cousin marriages preferred	Precipitation predictability
+Ei9	Mogh	Indo-China	1	0.5268736	Cousin marriages preferred	Precipitation predictability
+Ej1	Lamet	Indo-China	5	0.601235213	Cousin marriages preferred	Precipitation predictability
+Ej10	Rade	Indo-China	15	0.722892893	Cousin marriages preferred	Precipitation predictability
+Ej11	Cham	Indo-China	15	0.633808951	Cousin marriages preferred	Precipitation predictability
+Ej12	Lawa	Indo-China	5	0.553874298	Cousin marriages preferred	Precipitation predictability
+Ej13	Muong	Indo-China	15	0.634733889	Cousin marriages preferred	Precipitation predictability
+Ej14	Senoi	Malesia	15	0.71352968	Cousin marriages preferred	Precipitation predictability
+Ej16	Negri Sembilan	Indo-China	2	0.615772042	Cousin marriages preferred	Precipitation predictability
+Ej2	Mnong Gar	Indo-China	5	0.699316513	Cousin marriages preferred	Precipitation predictability
+Ej3	Semang	Malesia	15	0.682639897	Cousin marriages preferred	Precipitation predictability
+Ej4	Annamese	Indo-China	15	0.677372297	Cousin marriages preferred	Precipitation predictability
+Ej5	Khmer	Indo-China	15	0.683406944	Cousin marriages preferred	Precipitation predictability
+Ej7	Akha	Indo-China	15	0.585361298	Cousin marriages preferred	Precipitation predictability
+Ej8	Malays	Malesia	15	0.711108822	Cousin marriages preferred	Precipitation predictability
+Ej9	Thai	Indo-China	15	0.644907395	Cousin marriages preferred	Precipitation predictability
+Ia1	Atayal	Eastern Asia	15	0.584725874	Cousin marriages preferred	Precipitation predictability
+Ia10	Bunun	Eastern Asia	15	0.584725874	Cousin marriages preferred	Precipitation predictability
+Ia11	Puyuma	Eastern Asia	15	0.579695175	Cousin marriages preferred	Precipitation predictability
+Ia12	Sugbuanon	Malesia	15	0.6968582	Cousin marriages preferred	Precipitation predictability
+Ia13	Badjau Tawi-Tawi	Malesia	15	0.725165882	Cousin marriages preferred	Precipitation predictability
+Ia14	Tao	Eastern Asia	15	0.565519025	Cousin marriages preferred	Precipitation predictability
+Ia15	Manobo	Malesia	15	0.729807046	Cousin marriages preferred	Precipitation predictability
+Ia16	Kalinga	Malesia	15	0.622293327	Cousin marriages preferred	Precipitation predictability
+Ia18	Bisayan	Malesia	15	0.68881533	Cousin marriages preferred	Precipitation predictability
+Ia2	Sagada	Malesia	15	0.637429684	Cousin marriages preferred	Precipitation predictability
+Ia3	Ifugao	Malesia	15	0.637429684	Cousin marriages preferred	Precipitation predictability
+Ia4	Subanun	Malesia	15	0.713532765	Cousin marriages preferred	Precipitation predictability
+Ia5	Hanunoo	Malesia	15	0.630768326	Cousin marriages preferred	Precipitation predictability
+Ia6	Paiwan	Eastern Asia	15	0.554435402	Cousin marriages preferred	Precipitation predictability
+Ia7	Tagbanua	Malesia	15	0.635898969	Cousin marriages preferred	Precipitation predictability
+Ia8	Bontok	Malesia	15	0.637429684	Cousin marriages preferred	Precipitation predictability
+Ia9	Ami	Eastern Asia	15	0.579695175	Cousin marriages preferred	Precipitation predictability
+Ib1	Iban	Malesia	15	0.676560028	Cousin marriages preferred	Precipitation predictability
+Ib2	Javanese	Malesia	15	0.6572332	Cousin marriages preferred	Precipitation predictability
+Ib3	Balinese	Malesia	7	0.642957494	Cousin marriages preferred	Precipitation predictability
+Ib4	Toba Batak	Malesia	5	0.662965728	Cousin marriages preferred	Precipitation predictability
+Ib5	Kadazan-Dusun	Malesia	15	0.705529359	Cousin marriages preferred	Precipitation predictability
+Ib6	Minangkabau	Malesia	1	0.649356104	Cousin marriages preferred	Precipitation predictability
+Ib7	Mentaweians	Malesia	15	0.586687975	Cousin marriages preferred	Precipitation predictability
+Ib8	Anak Dalam	Malesia	15	0.660833613	Cousin marriages preferred	Precipitation predictability
+Ib9	Punan	Malesia	15	0.709376574	Cousin marriages preferred	Precipitation predictability
+Ic1	Macassarese	Malesia	15	0.60153309	Cousin marriages preferred	Precipitation predictability
+Ic10	Tobelorese	Malesia	15	0.684604583	Cousin marriages preferred	Precipitation predictability
+Ic11	Ambonese	Malesia	15	0.625537031	Cousin marriages preferred	Precipitation predictability
+Ic12	Sumbawanese	Malesia	15	0.618948075	Cousin marriages preferred	Precipitation predictability
+Ic13	Kodi	Malesia	15	0.589180817	Cousin marriages preferred	Precipitation predictability
+Ic2	Alorese	Malesia	15	0.59787786	Cousin marriages preferred	Precipitation predictability
+Ic3	Belu	Malesia	5	0.620045276	Cousin marriages preferred	Precipitation predictability
+Ic4	Rotinese	Malesia	12	0.572449066	Cousin marriages preferred	Precipitation predictability
+Ic5	Toradja	Malesia	15	0.669679837	Cousin marriages preferred	Precipitation predictability
+Ic6	Tanimbarese	Malesia	2	0.614358413	Cousin marriages preferred	Precipitation predictability
+Ic7	Ili-Mandiri	Malesia	2	0.603630277	Cousin marriages preferred	Precipitation predictability
+Ic8	Kei	Malesia	5	0.606917768	Cousin marriages preferred	Precipitation predictability
+Ic9	Sumbanese	Malesia	5	0.578884806	Cousin marriages preferred	Precipitation predictability
+Id1	Northern Aranda	Australia	10	0.450638425	Cousin marriages preferred	Precipitation predictability
+Id10	Walbiri	Australia	15	0.445035217	Cousin marriages preferred	Precipitation predictability
+Id11	Gidjingali	Australia	10	0.66642432	Cousin marriages preferred	Precipitation predictability
+Id12	Yir Yoront	Australia	15	0.594140179	Cousin marriages preferred	Precipitation predictability
+Id13	Anindilyagwa	Australia	11	0.584521263	Cousin marriages preferred	Precipitation predictability
+Id2	Yolngu, Dhuwal	Australia	5	0.647346023	Cousin marriages preferred	Precipitation predictability
+Id3	Tiwi	Australia	11	0.600993557	Cousin marriages preferred	Precipitation predictability
+Id4	Diyari	Australia	10	0.443274417	Cousin marriages preferred	Precipitation predictability
+Id5	Kariyarra	Australia	1	0.415932883	Cousin marriages preferred	Precipitation predictability
+Id6	Wikmunkan	Australia	5	0.634321451	Cousin marriages preferred	Precipitation predictability
+Id7	Murriny Patha	Australia	10	0.571599679	Cousin marriages preferred	Precipitation predictability
+Id9	Ngiyambaa	Australia	10	0.57595406	Cousin marriages preferred	Precipitation predictability
+Ie1	Mee	Papuasia	11	0.653550567	Cousin marriages preferred	Precipitation predictability
+Ie10	Motu	Papuasia	15	0.682544027	Cousin marriages preferred	Precipitation predictability
+Ie11	Kakoli	Papuasia	15	0.732229245	Cousin marriages preferred	Precipitation predictability
+Ie12	Kwoma	Papuasia	15	0.765944416	Cousin marriages preferred	Precipitation predictability
+Ie13	Kiwai	Papuasia	15	0.703205607	Cousin marriages preferred	Precipitation predictability
+Ie14	Miriam	Papuasia	15	0.684869286	Cousin marriages preferred	Precipitation predictability
+Ie15	Abelam	Papuasia	15	0.740780244	Cousin marriages preferred	Precipitation predictability
+Ie16	Kutubu	Papuasia	15	0.73395628	Cousin marriages preferred	Precipitation predictability
+Ie17	Siane	Papuasia	15	0.732778416	Cousin marriages preferred	Precipitation predictability
+Ie18	Kimam	Papuasia	15	0.6356109	Cousin marriages preferred	Precipitation predictability
+Ie19	Marind-Amin	Papuasia	15	0.659249352	Cousin marriages preferred	Precipitation predictability
+Ie2	Wantoat	Papuasia	1	0.724264709	Cousin marriages preferred	Precipitation predictability
+Ie20	Koita	Papuasia	15	0.682544027	Cousin marriages preferred	Precipitation predictability
+Ie22	Mekeo	Papuasia	15	0.682544027	Cousin marriages preferred	Precipitation predictability
+Ie23	Muju	Papuasia	15	0.70805312	Cousin marriages preferred	Precipitation predictability
+Ie24	Koiari	Papuasia	15	0.726422055	Cousin marriages preferred	Precipitation predictability
+Ie25	Mafulu	Papuasia	15	0.705432075	Cousin marriages preferred	Precipitation predictability
+Ie26	Ngarawapum	Papuasia	10	0.728194303	Cousin marriages preferred	Precipitation predictability
+Ie27	Banaro	Papuasia	15	0.74661166	Cousin marriages preferred	Precipitation predictability
+Ie28	Busama	Papuasia	15	0.730169903	Cousin marriages preferred	Precipitation predictability
+Ie29	Manam	Papuasia	15	0.722039834	Cousin marriages preferred	Precipitation predictability
+Ie3	Arapesh	Papuasia	15	0.745109641	Cousin marriages preferred	Precipitation predictability
+Ie31	Fore	Papuasia	1	0.732778416	Cousin marriages preferred	Precipitation predictability
+Ie33	Soromadja	Papuasia	1	0.773579038	Cousin marriages preferred	Precipitation predictability
+Ie34	Bgu	Papuasia	15	0.772984417	Cousin marriages preferred	Precipitation predictability
+Ie35	Iatmul	Papuasia	2	0.751749826	Cousin marriages preferred	Precipitation predictability
+Ie36	Samarokena	Papuasia	15	0.77925368	Cousin marriages preferred	Precipitation predictability
+Ie37	Star Mountain	Papuasia	15	0.752980084	Cousin marriages preferred	Precipitation predictability
+Ie38	Dani	Papuasia	15	0.716817118	Cousin marriages preferred	Precipitation predictability
+Ie39	Elema	Papuasia	15	0.714407478	Cousin marriages preferred	Precipitation predictability
+Ie4	Wogeo	Papuasia	15	0.700473233	Cousin marriages preferred	Precipitation predictability
+Ie5	Keraki	Papuasia	15	0.657835302	Cousin marriages preferred	Precipitation predictability
+Ie6	Waropen	Papuasia	5	0.760302525	Cousin marriages preferred	Precipitation predictability
+Ie7	Enga	Papuasia	15	0.732229245	Cousin marriages preferred	Precipitation predictability
+Ie8	Purari	Papuasia	15	0.733274596	Cousin marriages preferred	Precipitation predictability
+Ie9	Orokaiva	Papuasia	15	0.726422055	Cousin marriages preferred	Precipitation predictability
+If1	Palauans	Northwestern Pacific	15	0.696421304	Cousin marriages preferred	Precipitation predictability
+If10	Nomoians	Northwestern Pacific	1	0.698688509	Cousin marriages preferred	Precipitation predictability
+If11	Kosraeans	Northwestern Pacific	15	0.704438004	Cousin marriages preferred	Precipitation predictability
+If12	Bikinians	Northwestern Pacific	1	0.668849704	Cousin marriages preferred	Precipitation predictability
+If13	Nauruans	Southwestern Pacific	1	0.423860333	Cousin marriages preferred	Precipitation predictability
+If14	Makin	Southwestern Pacific	15	0.559455676	Cousin marriages preferred	Precipitation predictability
+If15	Carolinians	Northwestern Pacific	15	0.64241676	Cousin marriages preferred	Precipitation predictability
+If17	Marshallese - Jaluit atoll	Northwestern Pacific	1	0.6959807	Cousin marriages preferred	Precipitation predictability
+If2	Trukese	Northwestern Pacific	15	0.697768963	Cousin marriages preferred	Precipitation predictability
+If3	Majuro	Northwestern Pacific	15	0.695773591	Cousin marriages preferred	Precipitation predictability
+If4	Ifaluk	Northwestern Pacific	15	0.713877016	Cousin marriages preferred	Precipitation predictability
+If5	Ponapeans	Northwestern Pacific	1	0.691164544	Cousin marriages preferred	Precipitation predictability
+If6	Yapese	Northwestern Pacific	15	0.685111424	Cousin marriages preferred	Precipitation predictability
+If7	Gilbert Onotoa	Southwestern Pacific	15	0.392730233	Cousin marriages preferred	Precipitation predictability
+If8	Chamorro	Northwestern Pacific	15	0.64241676	Cousin marriages preferred	Precipitation predictability
+If9	Ulithians	Northwestern Pacific	15	0.674380398	Cousin marriages preferred	Precipitation predictability
+Ig1	Siuai	Papuasia	2	0.726125859	Cousin marriages preferred	Precipitation predictability
+Ig10	Usiai	Papuasia	15	0.625105769	Cousin marriages preferred	Precipitation predictability
+Ig11	Rossel Islanders	Papuasia	15	0.658707088	Cousin marriages preferred	Precipitation predictability
+Ig12	Choiseulese	Papuasia	15	0.728105455	Cousin marriages preferred	Precipitation predictability
+Ig13	Aua	Papuasia	15	0.673957421	Cousin marriages preferred	Precipitation predictability
+Ig14	Dahuni	Papuasia	15	0.693505981	Cousin marriages preferred	Precipitation predictability
+Ig17	Kombe	Papuasia	15	0.694166283	Cousin marriages preferred	Precipitation predictability
+Ig18	Kwaio	Papuasia	15	0.701406943	Cousin marriages preferred	Precipitation predictability
+Ig19	Molima	Papuasia	15	0.683512773	Cousin marriages preferred	Precipitation predictability
+Ig2	Trobriands	Papuasia	15	0.678815087	Cousin marriages preferred	Precipitation predictability
+Ig20	Kaoka	Papuasia	15	0.69593583	Cousin marriages preferred	Precipitation predictability
+Ig21	Tangu	Papuasia	1	0.633200879	Cousin marriages preferred	Precipitation predictability
+Ig3	Kurtatchi	Papuasia	15	0.723048599	Cousin marriages preferred	Precipitation predictability
+Ig4	Lesu	Papuasia	15	0.646031186	Cousin marriages preferred	Precipitation predictability
+Ig5	Dobuans	Papuasia	15	0.683512773	Cousin marriages preferred	Precipitation predictability
+Ig6	Ulawans	Papuasia	15	0.694042301	Cousin marriages preferred	Precipitation predictability
+Ig7	Lakalai	Papuasia	1	0.725739303	Cousin marriages preferred	Precipitation predictability
+Ig8	Simboese	Papuasia	15	0.704610323	Cousin marriages preferred	Precipitation predictability
+Ig9	Manus	Papuasia	10	0.625105769	Cousin marriages preferred	Precipitation predictability
+Ih1	Mota	Southwestern Pacific	15	0.658626234	Cousin marriages preferred	Precipitation predictability
+Ih10	Tannese	Southwestern Pacific	1	0.575817378	Cousin marriages preferred	Precipitation predictability
+Ih11	Epi	Southwestern Pacific	1	0.618057038	Cousin marriages preferred	Precipitation predictability
+Ih12	Eromangans	Southwestern Pacific	15	0.580957587	Cousin marriages preferred	Precipitation predictability
+Ih13	Ranon	Southwestern Pacific	15	0.626425847	Cousin marriages preferred	Precipitation predictability
+Ih2	Seniang	Southwestern Pacific	15	0.610469875	Cousin marriages preferred	Precipitation predictability
+Ih3	Bunlap	Southwestern Pacific	15	0.63279422	Cousin marriages preferred	Precipitation predictability
+Ih4	Lau	Southwestern Pacific	1	0.616239537	Cousin marriages preferred	Precipitation predictability
+Ih5	Ajie	Southwestern Pacific	1	0.559837685	Cousin marriages preferred	Precipitation predictability
+Ih6	Rotumans	Southwestern Pacific	15	0.712470608	Cousin marriages preferred	Precipitation predictability
+Ih7	Lifu	Southwestern Pacific	15	0.580867798	Cousin marriages preferred	Precipitation predictability
+Ih8	Vanua Levu	Southwestern Pacific	15	0.624987427	Cousin marriages preferred	Precipitation predictability
+Ih9	Santa Cruz Islanders	Southwestern Pacific	15	0.685089659	Cousin marriages preferred	Precipitation predictability
+Ii1	American Samoans	Southwestern Pacific	15	0.678167384	Cousin marriages preferred	Precipitation predictability
+Ii10	Rennell Islanders	Papuasia	1	0.670735426	Cousin marriages preferred	Precipitation predictability
+Ii12	Tongans	Southwestern Pacific	15	0.598009579	Cousin marriages preferred	Precipitation predictability
+Ii13	Uveans	Southwestern Pacific	15	0.695419727	Cousin marriages preferred	Precipitation predictability
+Ii14	Upolu Samoans	Southwestern Pacific	15	0.677829062	Cousin marriages preferred	Precipitation predictability
+Ii2	Tikopia	Southwestern Pacific	15	0.677857147	Cousin marriages preferred	Precipitation predictability
+Ii3	Pukapukans	Southwestern Pacific	15	0.719415378	Cousin marriages preferred	Precipitation predictability
+Ii4	Ellice	Southwestern Pacific	15	0.755767488	Cousin marriages preferred	Precipitation predictability
+Ii5	Ontong Java	Papuasia	15	0.724891622	Cousin marriages preferred	Precipitation predictability
+Ii6	Tokelau	Southwestern Pacific	15	0.732646849	Cousin marriages preferred	Precipitation predictability
+Ii7	Kapingamarangi	Northwestern Pacific	15	0.534433641	Cousin marriages preferred	Precipitation predictability
+Ii8	Futunans	Southwestern Pacific	15	0.681933847	Cousin marriages preferred	Precipitation predictability
+Ii9	Niueans	Southwestern Pacific	15	0.602665337	Cousin marriages preferred	Precipitation predictability
+Ij1	Mangaians	South-Central Pacific	15	0.599481153	Cousin marriages preferred	Precipitation predictability
+Ij10	Tongarevans	Southwestern Pacific	15	0.672738864	Cousin marriages preferred	Precipitation predictability
+Ij2	Māori	New Zealand	11	0.691649507	Cousin marriages preferred	Precipitation predictability
+Ij3	Marquesans	South-Central Pacific	1	0.638503399	Cousin marriages preferred	Precipitation predictability
+Ij4	Manihikians	Southwestern Pacific	15	0.698227158	Cousin marriages preferred	Precipitation predictability
+Ij6	Hawaiians	North-Central Pacific	15	0.539633128	Cousin marriages preferred	Precipitation predictability
+Ij7	Mangarevans	South-Central Pacific	15	0.641241082	Cousin marriages preferred	Precipitation predictability
+Ij8	Tahitians	South-Central Pacific	15	0.663865626	Cousin marriages preferred	Precipitation predictability
+Ij9	Easter Islanders	South-Central Pacific	15	0.595578681	Cousin marriages preferred	Precipitation predictability
+Na1	Nabesna	Subarctic America	1	0.724016047	Cousin marriages preferred	Precipitation predictability
+Na10	Chugach	Subarctic America	15	0.671338553	Cousin marriages preferred	Precipitation predictability
+Na11	Sivokakmeit	Subarctic America	15	0.673135707	Cousin marriages preferred	Precipitation predictability
+Na12	Nunamiut	Subarctic America	15	0.689339654	Cousin marriages preferred	Precipitation predictability
+Na17	DeneTha	Subarctic America	15	0.67002206499999994	Cousin marriages preferred	Precipitation predictability
+Na19	Dakelh	Western Canada	1	0.722299048	Cousin marriages preferred	Precipitation predictability
+Na2	Tareumiut	Subarctic America	15	0.677471257	Cousin marriages preferred	Precipitation predictability
+Na20	Kutchin	Subarctic America	15	0.716677647	Cousin marriages preferred	Precipitation predictability
+Na21	Caribou Inuit	Subarctic America	15	0.665819336	Cousin marriages preferred	Precipitation predictability
+Na22	Iglulik Inuit	Subarctic America	15	0.662932906	Cousin marriages preferred	Precipitation predictability
+Na24	Tasiilaq	Subarctic America	15	0.522632961	Cousin marriages preferred	Precipitation predictability
+Na26	Dena'ina	Subarctic America	15	0.689055137	Cousin marriages preferred	Precipitation predictability
+Na28	Sekani	Western Canada	15	0.702635338	Cousin marriages preferred	Precipitation predictability
+Na3	Copper Inuit	Subarctic America	15	0.671908428	Cousin marriages preferred	Precipitation predictability
+Na30	Dene	Subarctic America	15	0.693131083	Cousin marriages preferred	Precipitation predictability
+Na31	Eastern Cree	Eastern Canada	15	0.704304899	Cousin marriages preferred	Precipitation predictability
+Na32	Montagnais	Eastern Canada	2	0.717382751	Cousin marriages preferred	Precipitation predictability
+Na33	Northern Saulteaux	Western Canada	1	0.65854593	Cousin marriages preferred	Precipitation predictability
+Na34	Pekangekum	Eastern Canada	15	0.693164575	Cousin marriages preferred	Precipitation predictability
+Na35	Nipigon	Eastern Canada	15	0.707721349	Cousin marriages preferred	Precipitation predictability
+Na36	Minnesota Ojibwa	Western Canada	1	0.659290973	Cousin marriages preferred	Precipitation predictability
+Na37	Rainy River Ojibwe	Eastern Canada	1	0.691731274	Cousin marriages preferred	Precipitation predictability
+Na38	Katikitegon	North-Central U.S.A.	15	0.66933817	Cousin marriages preferred	Precipitation predictability
+Na39	Eastern Ojibwa	Northeastern U.S.A.	1	0.684983577	Cousin marriages preferred	Precipitation predictability
+Na4	Kaska	Western Canada	5	0.726630878	Cousin marriages preferred	Precipitation predictability
+Na41	Mi'kmaq	Eastern Canada	15	0.708767505	Cousin marriages preferred	Precipitation predictability
+Na42	Potawatomi	Northeastern U.S.A.	15	0.693069248	Cousin marriages preferred	Precipitation predictability
+Na43	Netsilik	Subarctic America	15	0.69033551	Cousin marriages preferred	Precipitation predictability
+Na44	Nunavimmiut	Eastern Canada	15	0.713929737	Cousin marriages preferred	Precipitation predictability
+Na45	Mistissini Cree	Middle Asia	1	0.745809976	Cousin marriages preferred	Precipitation predictability
+Na5	Naskapi	Eastern Canada	1	0.704474408	Cousin marriages preferred	Precipitation predictability
+Na6	Nunivak	Subarctic America	15	0.703968729	Cousin marriages preferred	Precipitation predictability
+Na7	Attawapiskat Cree	Eastern Canada	1	0.685270858	Cousin marriages preferred	Precipitation predictability
+Na8	Deg Xit'an	Subarctic America	15	0.67300579	Cousin marriages preferred	Precipitation predictability
+Na9	Aleut	Subarctic America	9	0.76797857	Cousin marriages preferred	Precipitation predictability
+Nb1	Haida	Western Canada	3	0.707031108	Cousin marriages preferred	Precipitation predictability
+Nb10	Alkatcho	Western Canada	15	0.69519092	Cousin marriages preferred	Precipitation predictability
+Nb11	Nuu chah nulth	Western Canada	15	0.645079282	Cousin marriages preferred	Precipitation predictability
+Nb12	Klahoose	Western Canada	15	0.652749005	Cousin marriages preferred	Precipitation predictability
+Nb13	Squamish	Western Canada	15	0.64211623	Cousin marriages preferred	Precipitation predictability
+Nb14	Comox	Western Canada	15	0.646262396	Cousin marriages preferred	Precipitation predictability
+Nb15	Lummi	Western Canada	15	0.628040485	Cousin marriages preferred	Precipitation predictability
+Nb16	Klallam	Northwestern U.S.A.	15	0.636981535	Cousin marriages preferred	Precipitation predictability
+Nb17	Puyallup	Northwestern U.S.A.	15	0.647618497	Cousin marriages preferred	Precipitation predictability
+Nb18	Quileute	Northwestern U.S.A.	15	0.643534046	Cousin marriages preferred	Precipitation predictability
+Nb19	Lower Chinook	Northwestern U.S.A.	15	0.639804636	Cousin marriages preferred	Precipitation predictability
+Nb2	Twana	Northwestern U.S.A.	15	0.636981535	Cousin marriages preferred	Precipitation predictability
+Nb20	Tillamook	Northwestern U.S.A.	15	0.63231473	Cousin marriages preferred	Precipitation predictability
+Nb21	Coos	Northwestern U.S.A.	15	0.618174202	Cousin marriages preferred	Precipitation predictability
+Nb22	Tlingit	Subarctic America	6	0.665733938	Cousin marriages preferred	Precipitation predictability
+Nb23	Heiltsuk	Western Canada	15	0.668130385	Cousin marriages preferred	Precipitation predictability
+Nb24	Makah	Northwestern U.S.A.	15	0.634055328	Cousin marriages preferred	Precipitation predictability
+Nb25	Quinault	Northwestern U.S.A.	15	0.645985282	Cousin marriages preferred	Precipitation predictability
+Nb26	Cowichan	Western Canada	15	0.632618435	Cousin marriages preferred	Precipitation predictability
+Nb27	Stó:lō	Western Canada	15	0.628567149	Cousin marriages preferred	Precipitation predictability
+Nb28	Alsea	Northwestern U.S.A.	15	0.629787438	Cousin marriages preferred	Precipitation predictability
+Nb29	Siuslaw	Northwestern U.S.A.	15	0.629787438	Cousin marriages preferred	Precipitation predictability
+Nb3	Kwakwaka'wakw	Western Canada	11	0.663564698	Cousin marriages preferred	Precipitation predictability
+Nb30	Takelma	Northwestern U.S.A.	15	0.561251344	Cousin marriages preferred	Precipitation predictability
+Nb31	Tututni	Northwestern U.S.A.	5	0.593225356	Cousin marriages preferred	Precipitation predictability
+Nb32	Shasta	Southwestern U.S.A.	15	0.50589976	Cousin marriages preferred	Precipitation predictability
+Nb33	Chimariko	Southwestern U.S.A.	15	0.531071558	Cousin marriages preferred	Precipitation predictability
+Nb34	Karuk	Northwestern U.S.A.	15	0.561251344	Cousin marriages preferred	Precipitation predictability
+Nb35	Hupa	Southwestern U.S.A.	15	0.531071558	Cousin marriages preferred	Precipitation predictability
+Nb36	Wiyot	Southwestern U.S.A.	15	0.563579337	Cousin marriages preferred	Precipitation predictability
+Nb37	Lassik	Southwestern U.S.A.	15	0.495498569	Cousin marriages preferred	Precipitation predictability
+Nb38	Mattole-Bear River	Southwestern U.S.A.	15	0.537439543	Cousin marriages preferred	Precipitation predictability
+Nb39	Sinkyone	Southwestern U.S.A.	15	0.563579337	Cousin marriages preferred	Precipitation predictability
+Nb4	Yurok	Southwestern U.S.A.	15	0.582491099	Cousin marriages preferred	Precipitation predictability
+Nb5	Eyak	Subarctic America	15	0.667805767	Cousin marriages preferred	Precipitation predictability
+Nb6	Tolowa	Northwestern U.S.A.	15	0.593225356	Cousin marriages preferred	Precipitation predictability
+Nb7	Tsimshian	Western Canada	2	0.681988673	Cousin marriages preferred	Precipitation predictability
+Nb8	Haisla	Western Canada	2	0.683096283	Cousin marriages preferred	Precipitation predictability
+Nb9	Nuxalk	Western Canada	15	0.66494821	Cousin marriages preferred	Precipitation predictability
+Nc1	Nomlaki	Southwestern U.S.A.	15	0.46057993	Cousin marriages preferred	Precipitation predictability
+Nc10	Achumawi	Southwestern U.S.A.	15	0.508071079	Cousin marriages preferred	Precipitation predictability
+Nc11	Yana	Southwestern U.S.A.	15	0.50589976	Cousin marriages preferred	Precipitation predictability
+Nc12	Maidu	Southwestern U.S.A.	15	0.467790274	Cousin marriages preferred	Precipitation predictability
+Nc13	Nisenan	Southwestern U.S.A.	15	0.438408048	Cousin marriages preferred	Precipitation predictability
+Nc14	Wintu	Southwestern U.S.A.	15	0.50589976	Cousin marriages preferred	Precipitation predictability
+Nc15	Coast Yuki	Southwestern U.S.A.	15	0.555591255	Cousin marriages preferred	Precipitation predictability
+Nc16	Huchnom	Southwestern U.S.A.	15	0.488241822	Cousin marriages preferred	Precipitation predictability
+Nc17	Northern Pomo	Southwestern U.S.A.	15	0.488241822	Cousin marriages preferred	Precipitation predictability
+Nc18	Eastern Pomo	Southwestern U.S.A.	15	0.488241822	Cousin marriages preferred	Precipitation predictability
+Nc19	Southern Pomo	Southwestern U.S.A.	15	0.488241822	Cousin marriages preferred	Precipitation predictability
+Nc2	Tübalulabal	Southwestern U.S.A.	15	0.470474805	Cousin marriages preferred	Precipitation predictability
+Nc20	Wappo	Southwestern U.S.A.	15	0.509859998	Cousin marriages preferred	Precipitation predictability
+Nc21	Lake Miwok	Southwestern U.S.A.	15	0.509584013	Cousin marriages preferred	Precipitation predictability
+Nc22	Patwin	Southwestern U.S.A.	15	0.46057993	Cousin marriages preferred	Precipitation predictability
+Nc23	Western Mono	Southwestern U.S.A.	15	0.40215476	Cousin marriages preferred	Precipitation predictability
+Nc24	Southern Valley Yokuts	Southwestern U.S.A.	15	0.431987293	Cousin marriages preferred	Precipitation predictability
+Nc25	Wukchumni	Southwestern U.S.A.	15	0.390051624	Cousin marriages preferred	Precipitation predictability
+Nc29	Tongva	Southwestern U.S.A.	15	0.399832688	Cousin marriages preferred	Precipitation predictability
+Nc3	Northern Foothill Yokuts	Southwestern U.S.A.	15	0.431987293	Cousin marriages preferred	Precipitation predictability
+Nc30	Serrano	Southwestern U.S.A.	15	0.358240804	Cousin marriages preferred	Precipitation predictability
+Nc31	Cahuilla (Desert)	Southwestern U.S.A.	15	0.38538402	Cousin marriages preferred	Precipitation predictability
+Nc32	Cupeño	Southwestern U.S.A.	15	0.417943242	Cousin marriages preferred	Precipitation predictability
+Nc33	Luiseño	Southwestern U.S.A.	15	0.417943242	Cousin marriages preferred	Precipitation predictability
+Nc34	Kiliwa	Mexico	15	0.402019966	Cousin marriages preferred	Precipitation predictability
+Nc4	Atsugewi	Southwestern U.S.A.	15	0.508071079	Cousin marriages preferred	Precipitation predictability
+Nc5	Central Sierra Miwok	Southwestern U.S.A.	15	0.426861465	Cousin marriages preferred	Precipitation predictability
+Nc6	Kumeyaay	Mexico	15	0.419814548	Cousin marriages preferred	Precipitation predictability
+Nc7	Yuki	Southwestern U.S.A.	15	0.495498569	Cousin marriages preferred	Precipitation predictability
+Nc8	Klamath	Northwestern U.S.A.	15	0.582081243	Cousin marriages preferred	Precipitation predictability
+Nc9	Modoc	Northwestern U.S.A.	15	0.540713825	Cousin marriages preferred	Precipitation predictability
+Nd1	Tenino	Northwestern U.S.A.	15	0.617047098	Cousin marriages preferred	Precipitation predictability
+Nd10	Nlaka'pamux	Western Canada	15	0.648164782	Cousin marriages preferred	Precipitation predictability
+Nd11	Shuswap	Western Canada	15	0.676793822	Cousin marriages preferred	Precipitation predictability
+Nd12	Bitterroot Salish	Northwestern U.S.A.	15	0.672307723	Cousin marriages preferred	Precipitation predictability
+Nd13	Kalispel	Western Canada	15	0.626850806	Cousin marriages preferred	Precipitation predictability
+Nd14	Coeur d’Alene	Northwestern U.S.A.	15	0.606683855	Cousin marriages preferred	Precipitation predictability
+Nd15	Sinkaitk	Western Canada	15	0.63813749	Cousin marriages preferred	Precipitation predictability
+Nd16	Wenatchi	Northwestern U.S.A.	15	0.636271298	Cousin marriages preferred	Precipitation predictability
+Nd17	Klikitat	Northwestern U.S.A.	15	0.642532902	Cousin marriages preferred	Precipitation predictability
+Nd18	Wishram	Northwestern U.S.A.	15	0.632111663	Cousin marriages preferred	Precipitation predictability
+Nd19	Umatilla	Northwestern U.S.A.	15	0.616311131	Cousin marriages preferred	Precipitation predictability
+Nd2	Southern Ute	Northwestern U.S.A.	15	0.549337687	Cousin marriages preferred	Precipitation predictability
+Nd20	Nez Perce	Northwestern U.S.A.	15	0.625108817	Cousin marriages preferred	Precipitation predictability
+Nd21	Tagotoka	Northwestern U.S.A.	15	0.604414592	Cousin marriages preferred	Precipitation predictability
+Nd22	Wadadokado	Northwestern U.S.A.	15	0.596869848	Cousin marriages preferred	Precipitation predictability
+Nd23	Atsakudokwa	Northwestern U.S.A.	15	0.565634561	Cousin marriages preferred	Precipitation predictability
+Nd24	Kidutokado	Northwestern U.S.A.	15	0.547928142	Cousin marriages preferred	Precipitation predictability
+Nd25	Sawakudokwa	Southwestern U.S.A.	15	0.538195309	Cousin marriages preferred	Precipitation predictability
+Nd26	Wadatkuht	Southwestern U.S.A.	15	0.514744375	Cousin marriages preferred	Precipitation predictability
+Nd27	Kuyuidokado	Southwestern U.S.A.	15	0.493600041	Cousin marriages preferred	Precipitation predictability
+Nd28	Toedokado	Southwestern U.S.A.	15	0.503161315	Cousin marriages preferred	Precipitation predictability
+Nd29	Tunava (Deep Springs and Fish Lake)	Southwestern U.S.A.	15	0.403830819	Cousin marriages preferred	Precipitation predictability
+Nd3	Havasupai	Southwestern U.S.A.	15	0.463243855	Cousin marriages preferred	Precipitation predictability
+Nd30	Eastern Mono	Southwestern U.S.A.	15	0.403830819	Cousin marriages preferred	Precipitation predictability
+Nd31	Koso	Southwestern U.S.A.	15	0.381181064	Cousin marriages preferred	Precipitation predictability
+Nd32	Tümpisa Shoshone (Saline and Panamint)	Southwestern U.S.A.	15	0.38068836	Cousin marriages preferred	Precipitation predictability
+Nd33	Beatty	Southwestern U.S.A.	15	0.404487595	Cousin marriages preferred	Precipitation predictability
+Nd34	Lida Shoshoni	Southwestern U.S.A.	15	0.410797352	Cousin marriages preferred	Precipitation predictability
+Nd35	Mahaguaduka	Southwestern U.S.A.	15	0.484799559	Cousin marriages preferred	Precipitation predictability
+Nd36	Wiyambituka	Southwestern U.S.A.	15	0.484799559	Cousin marriages preferred	Precipitation predictability
+Nd37	Railroad Valley Shoshoni	Southwestern U.S.A.	15	0.495195011	Cousin marriages preferred	Precipitation predictability
+Nd38	Ely Shoshoni	Southwestern U.S.A.	3	0.50390911	Cousin marriages preferred	Precipitation predictability
+Nd39	Spring Valley Shoshoni	Southwestern U.S.A.	15	0.541963177	Cousin marriages preferred	Precipitation predictability
+Nd4	Sanpoil	Northwestern U.S.A.	15	0.614060728	Cousin marriages preferred	Precipitation predictability
+Nd40	Tubaduka	Southwestern U.S.A.	15	0.545366314	Cousin marriages preferred	Precipitation predictability
+Nd41	Wadaduka	Southwestern U.S.A.	15	0.548739631	Cousin marriages preferred	Precipitation predictability
+Nd42	Elko Shoshoni	Southwestern U.S.A.	15	0.548739631	Cousin marriages preferred	Precipitation predictability
+Nd43	White Knife Shoshoni	Southwestern U.S.A.	15	0.552075571	Cousin marriages preferred	Precipitation predictability
+Nd44	Yahanduka	Northwestern U.S.A.	15	0.564064208	Cousin marriages preferred	Precipitation predictability
+Nd45	Bohogue	Northwestern U.S.A.	15	0.5789936	Cousin marriages preferred	Precipitation predictability
+Nd46	Agaiduka	Northwestern U.S.A.	15	0.613809708	Cousin marriages preferred	Precipitation predictability
+Nd47	Tukudika	Northwestern U.S.A.	15	0.647151441	Cousin marriages preferred	Precipitation predictability
+Nd48	Gosiute	Southwestern U.S.A.	1	0.543159649	Cousin marriages preferred	Precipitation predictability
+Nd49	Antarianunts	Southwestern U.S.A.	15	0.522594477	Cousin marriages preferred	Precipitation predictability
+Nd5	Hukundika	Northwestern U.S.A.	15	0.570918929	Cousin marriages preferred	Precipitation predictability
+Nd50	Panguitch	Southwestern U.S.A.	15	0.506813143	Cousin marriages preferred	Precipitation predictability
+Nd51	Moapa	Southwestern U.S.A.	15	0.381783671	Cousin marriages preferred	Precipitation predictability
+Nd52	Shivwits	Southwestern U.S.A.	15	0.38068836	Cousin marriages preferred	Precipitation predictability
+Nd53	Southern Paiute (Kaibab)	Southwestern U.S.A.	15	0.428220878	Cousin marriages preferred	Precipitation predictability
+Nd54	Chemehuevi	Southwestern U.S.A.	15	0.359003984	Cousin marriages preferred	Precipitation predictability
+Nd55	Southern Paiute (Las Vegas)	Southwestern U.S.A.	15	0.381783671	Cousin marriages preferred	Precipitation predictability
+Nd56	San Juan	Southwestern U.S.A.	15	0.493614993	Cousin marriages preferred	Precipitation predictability
+Nd58	Uintah Ute	Southwestern U.S.A.	15	0.554491376	Cousin marriages preferred	Precipitation predictability
+Nd6	Washo	Southwestern U.S.A.	15	0.450314903	Cousin marriages preferred	Precipitation predictability
+Nd63	Bannock	Northwestern U.S.A.	15	0.5789936	Cousin marriages preferred	Precipitation predictability
+Nd64	Wind River Eastern Shoshone	Northwestern U.S.A.	15	0.658556895	Cousin marriages preferred	Precipitation predictability
+Nd65	Hualapai	Southwestern U.S.A.	15	0.399395145	Cousin marriages preferred	Precipitation predictability
+Nd66	Yavapai	Southwestern U.S.A.	15	0.453650284	Cousin marriages preferred	Precipitation predictability
+Nd67	Tolkepaya	Southwestern U.S.A.	15	0.368039578	Cousin marriages preferred	Precipitation predictability
+Nd7	Kutenai	Western Canada	15	0.649943795	Cousin marriages preferred	Precipitation predictability
+Nd8	Chilcotin	Western Canada	15	0.715542653	Cousin marriages preferred	Precipitation predictability
+Nd9	Lillooet	Western Canada	15	0.648558424	Cousin marriages preferred	Precipitation predictability
+Ne1	Gros Ventre	Northwestern U.S.A.	15	0.654209103	Cousin marriages preferred	Precipitation predictability
+Ne11	Assiniboine	Northwestern U.S.A.	15	0.652711998	Cousin marriages preferred	Precipitation predictability
+Ne12	Blackfoot	Western Canada	15	0.659514108	Cousin marriages preferred	Precipitation predictability
+Ne13	Kainai	Western Canada	15	0.696614113	Cousin marriages preferred	Precipitation predictability
+Ne14	Bungi	Western Canada	15	0.652158465	Cousin marriages preferred	Precipitation predictability
+Ne15	Hidatsa	North-Central U.S.A.	15	0.633481258	Cousin marriages preferred	Precipitation predictability
+Ne17	Kiowa	North-Central U.S.A.	15	0.576173314	Cousin marriages preferred	Precipitation predictability
+Ne18	Piegan	Western Canada	15	0.643749683	Cousin marriages preferred	Precipitation predictability
+Ne19	Plains Cree	North-Central U.S.A.	15	0.641486489	Cousin marriages preferred	Precipitation predictability
+Ne2	Kiowa Apache	North-Central U.S.A.	15	0.576173314	Cousin marriages preferred	Precipitation predictability
+Ne20	Santee	North-Central U.S.A.	15	0.641486489	Cousin marriages preferred	Precipitation predictability
+Ne3	Comanche	South-Central U.S.A.	15	0.586817925	Cousin marriages preferred	Precipitation predictability
+Ne4	Crow	Northwestern U.S.A.	15	0.675162511	Cousin marriages preferred	Precipitation predictability
+Ne5	Cheyenne	Northwestern U.S.A.	15	0.607907084	Cousin marriages preferred	Precipitation predictability
+Ne6	Mandan	North-Central U.S.A.	15	0.633481258	Cousin marriages preferred	Precipitation predictability
+Ne7	Sarcee	Western Canada	15	0.672278348	Cousin marriages preferred	Precipitation predictability
+Ne8	Teton	North-Central U.S.A.	15	0.634174406	Cousin marriages preferred	Precipitation predictability
+Ne9	Arapaho	Northwestern U.S.A.	15	0.608765456	Cousin marriages preferred	Precipitation predictability
+Nf11	Otoe	North-Central U.S.A.	15	0.610420801	Cousin marriages preferred	Precipitation predictability
+Nf12	Ponca	North-Central U.S.A.	15	0.61745082	Cousin marriages preferred	Precipitation predictability
+Nf13	Shawnee	Southeastern U.S.A.	15	0.662443345	Cousin marriages preferred	Precipitation predictability
+Nf14	Caddo	Southeastern U.S.A.	15	0.617071742	Cousin marriages preferred	Precipitation predictability
+Nf15	Kickapoo	North-Central U.S.A.	15	0.655098697	Cousin marriages preferred	Precipitation predictability
+Nf2	Ho Chunk	North-Central U.S.A.	15	0.661031854	Cousin marriages preferred	Precipitation predictability
+Nf3	Omaha	North-Central U.S.A.	15	0.62010954	Cousin marriages preferred	Precipitation predictability
+Nf4	Myaamia	Northeastern U.S.A.	15	0.637837294	Cousin marriages preferred	Precipitation predictability
+Nf5	Wichita	South-Central U.S.A.	15	0.589512945	Cousin marriages preferred	Precipitation predictability
+Nf6	Pawnee	North-Central U.S.A.	11	0.613605807	Cousin marriages preferred	Precipitation predictability
+Nf7	Fox	North-Central U.S.A.	15	0.634590241	Cousin marriages preferred	Precipitation predictability
+Nf8	Hasinai	South-Central U.S.A.	15	0.604446253	Cousin marriages preferred	Precipitation predictability
+Nf9	Menominee	Northeastern U.S.A.	15	0.685133858	Cousin marriages preferred	Precipitation predictability
+Ng1	Huron	Eastern Canada	15	0.704614138	Cousin marriages preferred	Precipitation predictability
+Ng12	Choctaw	Southeastern U.S.A.	15	0.648663554	Cousin marriages preferred	Precipitation predictability
+Ng14	Chickasaw	Southeastern U.S.A.	15	0.671074468	Cousin marriages preferred	Precipitation predictability
+Ng2	Seminole	Southeastern U.S.A.	15	0.68537067	Cousin marriages preferred	Precipitation predictability
+Ng3	Muscogee	Southeastern U.S.A.	15	0.655222354	Cousin marriages preferred	Precipitation predictability
+Ng4	Penobscot	Northeastern U.S.A.	15	0.705900201	Cousin marriages preferred	Precipitation predictability
+Ng5	Cherokee	Southeastern U.S.A.	15	0.683771123	Cousin marriages preferred	Precipitation predictability
+Ng7	Natchez	Southeastern U.S.A.	15	0.633990562	Cousin marriages preferred	Precipitation predictability
+Ng9	Catawba	Southeastern U.S.A.	15	0.67516634	Cousin marriages preferred	Precipitation predictability
+Nh1	Chiricahua	Mexico	15	0.530860642	Cousin marriages preferred	Precipitation predictability
+Nh10	Isleta	South-Central U.S.A.	15	0.606888544	Cousin marriages preferred	Precipitation predictability
+Nh11	San Ildefonso	South-Central U.S.A.	15	0.621177076	Cousin marriages preferred	Precipitation predictability
+Nh12	Santa Ana	South-Central U.S.A.	15	0.606888544	Cousin marriages preferred	Precipitation predictability
+Nh13	Acoma	South-Central U.S.A.	15	0.590589678	Cousin marriages preferred	Precipitation predictability
+Nh14	Laguna	South-Central U.S.A.	15	0.606888544	Cousin marriages preferred	Precipitation predictability
+Nh15	Mescalero	South-Central U.S.A.	15	0.582111993	Cousin marriages preferred	Precipitation predictability
+Nh16	Jicarilla	South-Central U.S.A.	15	0.606833882	Cousin marriages preferred	Precipitation predictability
+Nh17	Western Apache	Southwestern U.S.A.	15	0.509413774	Cousin marriages preferred	Precipitation predictability
+Nh18	Hopi	Southwestern U.S.A.	15	0.493614993	Cousin marriages preferred	Precipitation predictability
+Nh19	Cocopa	Mexico	15	0.393704791	Cousin marriages preferred	Precipitation predictability
+Nh2	Hano	Southwestern U.S.A.	15	0.493614993	Cousin marriages preferred	Precipitation predictability
+Nh20	Kamia	Southwestern U.S.A.	15	0.370732093	Cousin marriages preferred	Precipitation predictability
+Nh21	Mojave	Southwestern U.S.A.	15	0.380024972	Cousin marriages preferred	Precipitation predictability
+Nh22	Quechan	Southwestern U.S.A.	15	0.372100529	Cousin marriages preferred	Precipitation predictability
+Nh23	Kewyipaya	Southwestern U.S.A.	15	0.465387107	Cousin marriages preferred	Precipitation predictability
+Nh24	Lipan Apache	South-Central U.S.A.	15	0.574938151	Cousin marriages preferred	Precipitation predictability
+Nh25	Sia	South-Central U.S.A.	15	0.609116406	Cousin marriages preferred	Precipitation predictability
+Nh26	Santa Clara	South-Central U.S.A.	15	0.621177076	Cousin marriages preferred	Precipitation predictability
+Nh27	Kewa	South-Central U.S.A.	15	0.622302456	Cousin marriages preferred	Precipitation predictability
+Nh3	Navajo	Southwestern U.S.A.	15	0.522594477	Cousin marriages preferred	Precipitation predictability
+Nh4	Zuni	South-Central U.S.A.	15	0.561878119	Cousin marriages preferred	Precipitation predictability
+Nh5	Maricopa	Southwestern U.S.A.	15	0.38449325	Cousin marriages preferred	Precipitation predictability
+Nh6	Taos	Northwestern U.S.A.	15	0.625627203	Cousin marriages preferred	Precipitation predictability
+Nh7	Cochiti	South-Central U.S.A.	15	0.621177076	Cousin marriages preferred	Precipitation predictability
+Nh8	Jemez	South-Central U.S.A.	15	0.609116406	Cousin marriages preferred	Precipitation predictability
+Nh9	Picuris	South-Central U.S.A.	15	0.621177076	Cousin marriages preferred	Precipitation predictability
+Ni1	Tarahumara	Mexico	15	0.578479376	Cousin marriages preferred	Precipitation predictability
+Ni2	Tohono O'odham	Mexico	15	0.403462131	Cousin marriages preferred	Precipitation predictability
+Ni3	Huichol	Mexico	15	0.607946431	Cousin marriages preferred	Precipitation predictability
+Ni4	Seri	Mexico	15	0.408242384	Cousin marriages preferred	Precipitation predictability
+Ni5	Chichimeca	Mexico	15	0.68681477	Cousin marriages preferred	Precipitation predictability
+Ni6	Pima	Mexico	15	0.439845882	Cousin marriages preferred	Precipitation predictability
+Ni7	Yaqui	Mexico	15	0.434302402	Cousin marriages preferred	Precipitation predictability
+Nj1	Chinantec	Mexico	15	0.766413745	Cousin marriages preferred	Precipitation predictability
+Nj10	Zapotec	Mexico	15	0.746422842	Cousin marriages preferred	Precipitation predictability
+Nj14	Tequistlatec	Mexico	15	0.6422485	Cousin marriages preferred	Precipitation predictability
+Nj2	Aztec	Mexico	15	0.654658189	Cousin marriages preferred	Precipitation predictability
+Nj3	Sierra Popoluca	Mexico	15	0.765036386	Cousin marriages preferred	Precipitation predictability
+Nj4	Totonac	Mexico	15	0.719261859	Cousin marriages preferred	Precipitation predictability
+Nj5	Mazateco	Mexico	15	0.748433684	Cousin marriages preferred	Precipitation predictability
+Nj6	Huave	Mexico	15	0.718049085	Cousin marriages preferred	Precipitation predictability
+Nj8	Tarasco	Mexico	15	0.657932308	Cousin marriages preferred	Precipitation predictability
+Nj9	Tlaxcalans	Mexico	15	0.678800139	Cousin marriages preferred	Precipitation predictability
+Sa1	Guna	Central America	15	0.739362393	Cousin marriages preferred	Precipitation predictability
+Sa13	K'iche'	Central America	15	0.676147291	Cousin marriages preferred	Precipitation predictability
+Sa17	Poqomam	Central America	15	0.676147291	Cousin marriages preferred	Precipitation predictability
+Sa2	Tzeltal	Mexico	2	0.709327781	Cousin marriages preferred	Precipitation predictability
+Sa3	Ch'orti'	Central America	15	0.642764975	Cousin marriages preferred	Precipitation predictability
+Sa4	Emberá	Central America	15	0.680175319	Cousin marriages preferred	Precipitation predictability
+Sa5	Bribri	Central America	15	0.763215662	Cousin marriages preferred	Precipitation predictability
+Sa6	Yucatec Maya	Mexico	15	0.742539287	Cousin marriages preferred	Precipitation predictability
+Sa7	Garifuna	Central America	15	0.721587836	Cousin marriages preferred	Precipitation predictability
+Sa8	Mam	Central America	15	0.596965843	Cousin marriages preferred	Precipitation predictability
+Sa9	Miskito	Central America	1	0.749824709	Cousin marriages preferred	Precipitation predictability
+Sb1	Callinago	Caribbean	3	0.637897047	Cousin marriages preferred	Precipitation predictability
+Sb2	Cágaba	Western South America	15	0.652482404	Cousin marriages preferred	Precipitation predictability
+Sb3	Barí (Motilon)	Northern South America	1	0.689012575	Cousin marriages preferred	Precipitation predictability
+Sb4	Cariña	Northern South America	8	0.789944511	Cousin marriages preferred	Precipitation predictability
+Sb5	Paraujano	Northern South America	15	0.760431225	Cousin marriages preferred	Precipitation predictability
+Sb6	Wayuu	Western South America	15	0.695438965	Cousin marriages preferred	Precipitation predictability
+Sb7	Yupa	Northern South America	1	0.689012575	Cousin marriages preferred	Precipitation predictability
+Sb9	Haitians	Caribbean	15	0.660707096	Cousin marriages preferred	Precipitation predictability
+Sc1	Warao	Northern South America	9	0.782504076	Cousin marriages preferred	Precipitation predictability
+Sc10	Lokono	Northern South America	2	0.774802281	Cousin marriages preferred	Precipitation predictability
+Sc11	Camaracoto	Northern South America	15	0.760990558	Cousin marriages preferred	Precipitation predictability
+Sc12	Macushi	Northern South America	1	0.76092211	Cousin marriages preferred	Precipitation predictability
+Sc13	Panare	Northern South America	1	0.650185079	Cousin marriages preferred	Precipitation predictability
+Sc16	Ye'kuana	Northern South America	1	0.671471601	Cousin marriages preferred	Precipitation predictability
+Sc17	Piapoco	Western South America	1	0.697285012	Cousin marriages preferred	Precipitation predictability
+Sc18	Ndyuka	Northern South America	11	0.749091195	Cousin marriages preferred	Precipitation predictability
+Sc2	Pumé	Northern South America	1	0.659251528	Cousin marriages preferred	Precipitation predictability
+Sc3	Barama River Carib	Northern South America	1	0.798514559	Cousin marriages preferred	Precipitation predictability
+Sc4	Guahibo	Western South America	1	0.734880927	Cousin marriages preferred	Precipitation predictability
+Sc5	Wapishana	Brazil	1	0.701540874	Cousin marriages preferred	Precipitation predictability
+Sc6	Saramaccan	Northern South America	15	0.739536617	Cousin marriages preferred	Precipitation predictability
+Sc7	Yabarana	Northern South America	1	0.676187125	Cousin marriages preferred	Precipitation predictability
+Sc8	Piaroa	Northern South America	1	0.701976375	Cousin marriages preferred	Precipitation predictability
+Sc9	Curripaco	Northern South America	15	0.701976375	Cousin marriages preferred	Precipitation predictability
+Sd1	Munduruku	Brazil	1	0.737134157	Cousin marriages preferred	Precipitation predictability
+Sd2	Tapirapé	Brazil	15	0.619269495	Cousin marriages preferred	Precipitation predictability
+Sd6	Shiriana	Northern South America	15	0.694194028	Cousin marriages preferred	Precipitation predictability
+Sd7	Wai-wai	Brazil	15	0.712431409	Cousin marriages preferred	Precipitation predictability
+Sd8	Sanema	Northern South America	15	0.68661774	Cousin marriages preferred	Precipitation predictability
+Sd9	Yanomami	Northern South America	1	0.697315877	Cousin marriages preferred	Precipitation predictability
+Se1	Sirionó	Western South America	5	0.631664458	Cousin marriages preferred	Precipitation predictability
+Se11	Chácobo	Western South America	1	0.669196941	Cousin marriages preferred	Precipitation predictability
+Se12	Tucano	Brazil	1	0.80142405	Cousin marriages preferred	Precipitation predictability
+Se2	Ticuna	Western South America	15	0.796968536	Cousin marriages preferred	Precipitation predictability
+Se3	Shuar	Western South America	1	0.713244058	Cousin marriages preferred	Precipitation predictability
+Se4	Yagua	Western South America	15	0.784026733	Cousin marriages preferred	Precipitation predictability
+Se5	Cubeo	Western South America	2	0.815720459	Cousin marriages preferred	Precipitation predictability
+Se6	Witoto	Western South America	15	0.808855409	Cousin marriages preferred	Precipitation predictability
+Se7	Camba	Western South America	15	0.586241516	Cousin marriages preferred	Precipitation predictability
+Se8	Amahuaca	Brazil	1	0.734502021	Cousin marriages preferred	Precipitation predictability
+Sf1	Inca	Western South America	15	0.789543679	Cousin marriages preferred	Precipitation predictability
+Sf2	Aymara	Western South America	15	0.743883425	Cousin marriages preferred	Precipitation predictability
+Sf3	Chachi	Western South America	15	0.730143807	Cousin marriages preferred	Precipitation predictability
+Sf4	U'wa	Western South America	15	0.767555655	Cousin marriages preferred	Precipitation predictability
+Sf7	Asháninka	Western South America	15	0.716717597	Cousin marriages preferred	Precipitation predictability
+Sf8	Piro	Western South America	15	0.753588697	Cousin marriages preferred	Precipitation predictability
+Sg1	Yahgan	Southern South America	15	0.819860362	Cousin marriages preferred	Precipitation predictability
+Sg2	Mapuche	Southern South America	5	0.565500649	Cousin marriages preferred	Precipitation predictability
+Sg3	Ona	Southern South America	15	0.8256723	Cousin marriages preferred	Precipitation predictability
+Sg4	Tehuelche	Southern South America	15	0.73516488	Cousin marriages preferred	Precipitation predictability
+Sg5	Alacaluf	Southern South America	15	0.768503416	Cousin marriages preferred	Precipitation predictability
+Sh1	Wichí	Southern South America	15	0.58694006	Cousin marriages preferred	Precipitation predictability
+Sh2	Terena	Southern South America	15	0.596807867	Cousin marriages preferred	Precipitation predictability
+Sh3	Abipón	Southern South America	15	0.594416348	Cousin marriages preferred	Precipitation predictability
+Sh4	Kadiwéu	Brazil	15	0.607959688	Cousin marriages preferred	Precipitation predictability
+Sh5	Choroti	Southern South America	15	0.578635455	Cousin marriages preferred	Precipitation predictability
+Sh7	Guaraní	Western South America	15	0.615885537	Cousin marriages preferred	Precipitation predictability
+Sh8	Toba	Southern South America	15	0.613374043	Cousin marriages preferred	Precipitation predictability
+Si1	Bororo	Brazil	15	0.564122032	Cousin marriages preferred	Precipitation predictability
+Si10	Kuikuru	Brazil	15	0.598312981	Cousin marriages preferred	Precipitation predictability
+Si2	Trumai	Brazil	1	0.604085888	Cousin marriages preferred	Precipitation predictability
+Si3	Bacairi	Brazil	15	0.58978331	Cousin marriages preferred	Precipitation predictability
+Si4	Nambikwara	Brazil	1	0.635950435	Cousin marriages preferred	Precipitation predictability
+Si5	Kamayurá	Brazil	1	0.606298393	Cousin marriages preferred	Precipitation predictability
+Si8	Umotina	Brazil	15	0.583715791	Cousin marriages preferred	Precipitation predictability
+Sj1	Carajá	Brazil	15	0.586238005	Cousin marriages preferred	Precipitation predictability
+Sj11	Shavante	Brazil	15	0.585271016	Cousin marriages preferred	Precipitation predictability
+Sj2	Sherente	Brazil	15	0.621131069	Cousin marriages preferred	Precipitation predictability
+Sj3	Aweikoma	Brazil	15	0.684641439	Cousin marriages preferred	Precipitation predictability
+Sj4	Canela	Brazil	15	0.655647357	Cousin marriages preferred	Precipitation predictability
+Sj5	Aimoré	Brazil	15	0.640135843	Cousin marriages preferred	Precipitation predictability
+Sj6	Tenetehara	Brazil	15	0.718920114	Cousin marriages preferred	Precipitation predictability
+Sj7	Apinaye	Brazil	15	0.645770265	Cousin marriages preferred	Precipitation predictability
+Sj8	Tupinambá	Brazil	1	0.741458535	Cousin marriages preferred	Precipitation predictability
+Sj9	Kayapo	Brazil	15	0.689084303	Cousin marriages preferred	Precipitation predictability
+ch12	Bashkir	Eastern Europe	15	0.66501162	Cousin marriages preferred	Precipitation predictability
+ch14	Chuvash	Eastern Europe	15	0.692481003	Cousin marriages preferred	Precipitation predictability
+ch15	Erzya Mordvins	Eastern Europe	15	0.650733853	Cousin marriages preferred	Precipitation predictability
+ch17	Gagauz	Eastern Europe	15	0.597301391	Cousin marriages preferred	Precipitation predictability
+ch18	Ingrians	Eastern Europe	15	0.713631217	Cousin marriages preferred	Precipitation predictability
+ch20	Kazan tatar	Eastern Europe	15	0.676381962	Cousin marriages preferred	Precipitation predictability
+ch23	Lithuanian Tatar	Eastern Europe	15	0.708146	Cousin marriages preferred	Precipitation predictability
+ch24	Livs	Eastern Europe	15	0.704790404	Cousin marriages preferred	Precipitation predictability
+ch26	Udmurt	Eastern Europe	15	0.692481003	Cousin marriages preferred	Precipitation predictability
+ch27	Veps	Eastern Europe	15	0.697509554	Cousin marriages preferred	Precipitation predictability
+ch28	Votes	Eastern Europe	15	0.713631217	Cousin marriages preferred	Precipitation predictability
+ec12	Nganasan	Siberia	15	0.652808167	Cousin marriages preferred	Precipitation predictability
+ec13	Itelmen	Russian Far East	15	0.677349983	Cousin marriages preferred	Precipitation predictability
+ec14	Ungazikmit	Russian Far East	15	0.670407472	Cousin marriages preferred	Precipitation predictability
+ec15	Mansi	Siberia	15	0.694159469	Cousin marriages preferred	Precipitation predictability
+ec16	Evenk	Siberia	2	0.74689729	Cousin marriages preferred	Precipitation predictability
+ec17	Negidal	Russian Far East	2	0.706797379	Cousin marriages preferred	Precipitation predictability
+ec18	Ulch	Russian Far East	2	0.674888904	Cousin marriages preferred	Precipitation predictability
+ec19	Orok	Russian Far East	2	0.631358609	Cousin marriages preferred	Precipitation predictability
+ec20	Oroch	Russian Far East	2	0.655019504	Cousin marriages preferred	Precipitation predictability
+ec21	Udihe	Russian Far East	2	0.698584007	Cousin marriages preferred	Precipitation predictability
